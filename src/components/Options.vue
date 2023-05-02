@@ -14,7 +14,7 @@
         >
           <span class="flex items-center">
             <span class="ml-3 block truncate">{{
-              selectedCategory || 'Loading...'
+              selectedCategory || 'Ładowanie...'
             }}</span>
           </span>
           <span
@@ -74,7 +74,7 @@
 
     <Listbox as="div" v-model="selectedDifficulty">
       <ListboxLabel class="block text-sm font-medium text-gray-700">
-        Choose a difficulty
+        Wybierz Trudność
       </ListboxLabel>
       <div class="mt-1 relative">
         <ListboxButton
@@ -141,7 +141,7 @@
       class="px-12 py-4 bg-gray-600 text-white text-lg rounded-lg hover:bg-gray-700 transition w-full"
       @click="startQuiz()"
     >
-      Start quiz
+      Start
     </button>
   </div>
 </template>
