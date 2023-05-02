@@ -2,11 +2,11 @@
   <Loader v-if="store.loading"></Loader>
   <div v-else class="w-11/12 mx-auto grid grid-cols-1 gap-y-8 lg:w-5/12">
     <h1 class="text-center text-3xl my-12 font-bold">
-      Trivia<span class="text-purple-500">GO</span>
+      Afuek<span class="text-purple-500">Quiz</span>
     </h1>
     <Listbox as="div" v-model="selectedCategory">
       <ListboxLabel class="block text-sm font-medium text-gray-700">
-        Choose a category
+        Wybierz Kategorię
       </ListboxLabel>
       <div class="mt-1 relative">
         <ListboxButton
