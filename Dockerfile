@@ -18,5 +18,5 @@ COPY . .
 # build app for production with minification
 RUN npm run build
 
-EXPOSE 3001
+EXPOSE 5001
 CMD ["bundle",  "exec", "rails", "server", "-e", "production"]
