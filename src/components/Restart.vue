@@ -15,7 +15,7 @@ export default {
   >
     <div class="pb-20 flex flex-col items-center">
       <h1 class="mb-8 text-center text-lg font-medium">
-        You got {{ store.score }} out of {{ store.questionCount }} questions
+        Twoje punkty: {{ store.score }} z {{ store.questionCount }} questions
         right.
       </h1>
       <button
@@ -23,7 +23,7 @@ export default {
         class="bg-gray-200 rounded-lg px-12 py-4 transition md:text-lg hover:bg-gray-300 transition"
       >
         <div class="flex items-center">
-          <span class="mr-3">Restart quiz</span
+          <span class="mr-3">Ponów quiz</span
           ><svg
             width="24"
             height="24"
