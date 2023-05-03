@@ -28,7 +28,7 @@ export const store = reactive({
   getData() {
     this.loading = true;
     fetch(
-      `http://127.0.0.1:8080/questions.json`
+      `http://146.59.86.242:3003/questions.json`
     )
       .then((res) => res.json())
       .then((res) => {
