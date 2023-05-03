@@ -57,7 +57,7 @@
             class="px-12 py-4 bg-gray-600 text-white text-lg rounded-lg hover:bg-gray-700 transition w-full md:w-1/3"
             v-show="store.showAnswer"
           >
-            Next
+            Następne
           </button>
         </Transition>
       </div>
