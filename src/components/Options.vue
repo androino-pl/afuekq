@@ -2,11 +2,11 @@
   <Loader v-if="store.loading"></Loader>
   <div v-else class="w-11/12 mx-auto grid grid-cols-1 gap-y-8 lg:w-5/12">
     <h1 class="text-center text-3xl my-12 font-bold">
-      AFUEK<span class="text-purple-500">Quiz</span>
+      Trivia<span class="text-purple-500">GO</span>
     </h1>
     <Listbox as="div" v-model="selectedCategory">
       <ListboxLabel class="block text-sm font-medium text-gray-700">
-        Wybierz Kategorie
+        Choose a category
       </ListboxLabel>
       <div class="mt-1 relative">
         <ListboxButton
@@ -74,7 +74,7 @@
 
     <Listbox as="div" v-model="selectedDifficulty">
       <ListboxLabel class="block text-sm font-medium text-gray-700">
-        Wybierz poziom trudności
+        Choose a difficulty
       </ListboxLabel>
       <div class="mt-1 relative">
         <ListboxButton
@@ -141,7 +141,7 @@
       class="px-12 py-4 bg-gray-600 text-white text-lg rounded-lg hover:bg-gray-700 transition w-full"
       @click="startQuiz()"
     >
-      Rozpocznij Quiz
+      Start quiz
     </button>
   </div>
 </template>
@@ -165,7 +165,7 @@ const difficulties = ref(['easy', 'medium', 'hard']);
 const selectedDifficulty = ref('easy');
 
 onMounted(() => {
-  fetch('http://localhost:3000/categories.json?')
+  fetch('https://opentdb.com/api_category.php')
     .then((res) => res.json())
     .then((res) => {
       categories.value = res.trivia_categories;
