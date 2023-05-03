@@ -6,7 +6,7 @@
     </h1>
     <Listbox as="div" v-model="selectedCategory">
       <ListboxLabel class="block text-sm font-medium text-gray-700">
-        Wybierz Kategorie
+        Wybierz Kategorię
       </ListboxLabel>
       <div class="mt-1 relative">
         <ListboxButton
