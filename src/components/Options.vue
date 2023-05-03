@@ -74,7 +74,7 @@
 
     <Listbox as="div" v-model="selectedDifficulty">
       <ListboxLabel class="block text-sm font-medium text-gray-700">
-        Wybierz poziom trudnosci
+        Wybierz poziom trudności
       </ListboxLabel>
       <div class="mt-1 relative">
         <ListboxButton
