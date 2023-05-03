@@ -15,8 +15,7 @@ export default {
   >
     <div class="pb-20 flex flex-col items-center">
       <h1 class="mb-8 text-center text-lg font-medium">
-        Twoje punkty: {{ store.score }} z {{ store.questionCount }} questions
-        right.
+        Poprawne odpowiedzi: {{ store.score }} na {{ store.questionCount }} pytań.
       </h1>
       <button
         @click="store.restartQuiz()"
