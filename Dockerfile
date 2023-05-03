@@ -1,22 +1,10 @@
-FROM node:lts-alpine
+FROM node:16.10.0
 
-# install simple http server for serving static content
-RUN npm install -g http-server
+RUN npm install -g npm@8.1.3
+RUN npm install -g @vue/cli@4.5.15
 
-# make the 'app' folder the current working directory
-WORKDIR /app
+RUN mkdir /srv/app && chown node:node /srv/app
 
-# copy both 'package.json' and 'package-lock.json' (if available)
-COPY package*.json ./
+USER node
 
-# install project dependencies
-RUN npm install
-
-# copy project files and folders to the current working directory (i.e. 'app' folder)
-COPY . .
-
-# build app for production with minification
-RUN npm run build
-
-EXPOSE 5001
-CMD ["bundle",  "exec", "rails", "server", "-e", "production"]
+WORKDIR /srv/app
