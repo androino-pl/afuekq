@@ -2,11 +2,11 @@
   <Loader v-if="store.loading"></Loader>
   <div v-else class="w-11/12 mx-auto grid grid-cols-1 gap-y-8 lg:w-5/12">
     <h1 class="text-center text-3xl my-12 font-bold">
-      Afuek<span class="text-purple-500">Quiz</span>
+      AFUEK<span class="text-purple-500">Quiz</span>
     </h1>
     <Listbox as="div" v-model="selectedCategory">
       <ListboxLabel class="block text-sm font-medium text-gray-700">
-        Wybierz Kategorię
+        Wybierz Kategorie
       </ListboxLabel>
       <div class="mt-1 relative">
         <ListboxButton
@@ -14,7 +14,7 @@
         >
           <span class="flex items-center">
             <span class="ml-3 block truncate">{{
-              selectedCategory || 'Ładowanie...'
+              selectedCategory || 'Loading...'
             }}</span>
           </span>
           <span
@@ -74,7 +74,7 @@
 
     <Listbox as="div" v-model="selectedDifficulty">
       <ListboxLabel class="block text-sm font-medium text-gray-700">
-        Wybierz Trudność
+        Wybierz poziom trudnosci
       </ListboxLabel>
       <div class="mt-1 relative">
         <ListboxButton
@@ -141,7 +141,7 @@
       class="px-12 py-4 bg-gray-600 text-white text-lg rounded-lg hover:bg-gray-700 transition w-full"
       @click="startQuiz()"
     >
-      Start
+      Rozpocznij Quiz
     </button>
   </div>
 </template>
