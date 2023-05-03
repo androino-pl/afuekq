@@ -2,7 +2,7 @@ services:
   web:
     build: .
     ports:
-      - "3001:3001"
+      - "5001:5001"
     volumes:
       - .:/code
   redis:
