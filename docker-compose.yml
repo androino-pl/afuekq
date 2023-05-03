@@ -2,8 +2,8 @@ version: '3.7'
 
 services:
   app:
-    image: myapp
+    image: afuekquiz
     build: .
-    container_name: myapp
+    container_name: afuekquiz
     ports:
       - "8080:8080"
