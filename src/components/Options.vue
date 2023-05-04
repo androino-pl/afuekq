@@ -165,7 +165,7 @@ const difficulties = ref(['easy', 'medium', 'hard']);
 const selectedDifficulty = ref('easy');
 
 onMounted(() => {
-  fetch('http://146.59.86.242:5000/categories.json?')
+  fetch('http://192.168.160.2:8080/categories.json?')
     .then((res) => res.json())
     .then((res) => {
       categories.value = res.trivia_categories;
