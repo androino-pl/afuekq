@@ -2,8 +2,8 @@ version: '3.7'
 
 services:
   app:
-    image: afuekquiz
+    image: afuekquiz2
     build: .
-    container_name: afuekquiz
+    container_name: afuekquiz2
     ports:
       - "8081:8081"
