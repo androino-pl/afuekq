@@ -1,16 +1,665 @@
-{"response_code":0,"results":[
-{"category":"Prawo Cywilne","type":"multiple","difficulty":"medium","question":"Źródłami powszechnie obowiązującego prawa Rzeczpospolitej Polskiej są:","correct_answer":"Konstytucja RP, ustawy, ratyfikowane umowy międzynarodowe oraz rozporządzenia art. 87 ust 1 Konstytucji","incorrect_answers":["Konstytucja RP, ratyfikowane umowy międzynarodowe oraz rozporządzenia","Konstytucja RP, ustawy, umowy międzynarodowe oraz rozporządzenia"]},
-{"category":"Prawo Cywilne","type":"multiple","difficulty":"medium","question":" Akty prawa miejscowego:","correct_answer":"są źródłami powszechnie obowiązującego prawa Rzeczpospolitej Polskiej, ale tylko na obszarze działania organów, które je ustanowiły art. 87 ust 2 Konstytucji","incorrect_answers":["są źródłami powszechnie obowiązującego prawa Rzeczpospolitej Polskiej, ","nie są źródłami powszechnie obowiązującego prawa Rzeczpospolitej Polskiej,"]},
-{"category":"Prawo Cywilne","type":"multiple","difficulty":"medium","question":"Warunkiem wejścia w życie ustaw, rozporządzeń oraz aktów prawa miejscowego jest:","correct_answer":"ich ogłoszenie art. 88 ust 1 Konstytucji","incorrect_answers":["prawidłowy tryb uchwalenia","przejście całego procesu legislacyjnego"]},
-{"category":"Prawo Cywilne","type":"multiple","difficulty":"medium","question":"Zasady i tryb ogłaszania aktów normatywnych określone są w ","correct_answer":"ustawie art. 88 ust 2 Konstytucji","incorrect_answers":["stosownych aktach wykonawczych","Konstytucji RP"]},
-{"category":"Prawo Cywilne","type":"multiple","difficulty":"medium","question":"Umowy międzynarodowe ratyfikowane za uprzednią zgodą wyrażoną w ustawie są ogłaszane w trybie","correct_answer":"wymaganym dla ustaw art. 88 ust 3 Konstytucji","incorrect_answers":["pilnym","zwykłym"]},
-{"category":"Prawo Cywilne","type":"multiple","difficulty":"medium","question":"Zasady ogłaszania innych umów międzynarodowych ","correct_answer":"określa ustawa art. 88 ust 3 Konstytucji","incorrect_answers":["są takie same jak dla ustaw","są zawarte w tych umowach"]},
-{"category":"Prawo Cywilne","type":"multiple","difficulty":"medium","question":"Ratyfikacja przez Rzeczpospolitą Polską umowy międzynarodowej i jej wypowiedzenie wymaga uprzedniej zgody wyrażonej w ustawie:","correct_answer":"jeśli umowa dotyczy kwestii wymienionych enumeratywnie w Konstytucji RP art. 89 ust 1 Konstytucji","incorrect_answers":["zawsze","jeśli umowa dotyczy pokoju, sojuszy, układów politycznych lub układów wojskowych"]},
-{"category":"Prawo Cywilne","type":"multiple","difficulty":"medium","question":"Jeżeli umowa międzynarodowa dotyczy znacznego obciążenia państwa pod względem finansowym, jej ratyfikacja :","correct_answer":"wymaga uprzedniej zgody wyrażonej w ustawie art. 89 ust 1 pkt. 4 Konstytucji","incorrect_answers":["wymaga następczej zgody wyrażonej w ustawie","nie wymaga zgody wyrażonej w ustawie"]},
-{"category":"Prawo Cywilne","type":"multiple","difficulty":"medium","question":"Jeżeli umowa międzynarodowa dotyczy spraw uregulowanych w ustawie lub w których Konstytucja RP wymaga ustawy, jej ratyfikacja:","correct_answer":"wymaga uprzedniej zgody wyrażonej w ustawie ","incorrect_answers":["nie wymaga zgody wyrażonej w ustawie","wymaga następczej zgody wyrażonej w ustawie"]},
-{"category":"Prawo Cywilne","type":"multiple","difficulty":"medium","question":"O zamiarze przedłożenia Prezydentowi Rzeczpospolitej Polskiej do ratyfikacji umów międzynarodowych, których ratyfikacja nie wymaga  zgody wyrażonej w ustawie, Sejm zawiadamiany jest przez:","correct_answer":"Prezesa Rady Ministrów art. 89 ust 2 Konstytucji","incorrect_answers":["Minister Spraw Zagranicznych","Radę Ministrów"]},
-{"category":"Prawo Cywilne","type":"multiple","difficulty":"medium","question":"Zasady oraz tryb zawierania, ratyfikowania i wypowiadania umów międzynarodowych określa (ją):","correct_answer":"ustawanie  art. 89 ust 03 Konstytucji","incorrect_answers":["normy prawa międzynarodowego","Konstytucja RP"]},
-{"category":"Prawo Cywilne","type":"multiple","difficulty":"medium","question":"Rzeczpospolita Polska może przekazać organizacji międzynarodowej lub organowi międzynarodowemu kompetencje organów władzy państwowej w niektórych sprawach:","correct_answer":"na podstawie umowy międzynarodowej; ustawa wyrażająca zgodę na ratyfikację takiej umowy jest uchwalana przez Sejm większością 2/3 głosów w obecności co najmniej połowy ustawowej liczby posłów oraz przez Senat większością 2/3 głosów w obecności co najmniej połowy ustawowej liczby senatorów art. 90 ust 1 Konstytucji, art. 90 ust 2 Konstytucji","incorrect_answers":["na podstawie ustawy, uchwalonej przez Sejm bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów oraz przez Senat większością ¾ głosów w obecności co najmniej połowy ustawowej liczby senatorów","na podstawie umowy międzynarodowej, ustawa wyrażająca  zgodę na ratyfikację takiej umowy jest uchwalana przez Sejm bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów oraz przez Senat większością 2/3 głosów w obecności co najmniej połowy ustawowej liczby senatorów"]},
-{"category":"Prawo Cywilne","type":"multiple","difficulty":"medium","question":"Wyrażenie zgody na umowę, na podstawie której Rzeczpospolita Polska może przekazać organizacji międzynarodowej lub organowi międzynarodowemu kompetencje organów władzy państwowej w  niektórych sprawach, poza trybem z art. 90 ust. 2 Konstytucji RP.","correct_answer":"może być uchwalone w referendum ogólnokrajowym art. 90 ust 1 Konstytucji, art. 90 ust 3 Konstytucji","incorrect_answers":["powinno być uchwalone  w referendum ogólnokrajowym","musi  być uchwalone w referendum ogólnokrajowym"]},
-{"category":"Prawo Cywilne","type":"multiple","difficulty":"medium","question":"Uchwałę w sprawie wyboru trybu wyrażenia zgody na ratyfikację umowy, na podstawie której Rzeczpospolita Polska może przekazać organizacji międzynarodowej lub organowi międzynarodowemu kompetencje organów władzy państwowej w niektórych sprawach, podejmuje:","correct_answer":"Sejm bezwzględną większością  głosów w obecności co najmniej połowy ustawowej liczby posłów art. 90 ust 4 Konstytucji","incorrect_answers":["Sejm i Senat bezwzględną większością głosów","Sejm i Senat  bezwzględną większością głosów  w obecności co najmniej połowy ustawowej liczby posłów i senatorów."]}
-]}
+ {
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Zdolność prawną ma:",
+      "correct_answer": "każdy człowiek od chwili urodzenia",
+      "incorrect_answers": [
+        "każda osoba, która ukończyła 18 rok życia",
+        "każda osoba posiadająca pełną zdolność procesową"
+      ]
+    },
+    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "W razie urodzenia dziecka:",
+      "correct_answer": "domniemywa się, że urodziło się ono żywe",
+      "incorrect_answers": [
+        "domniemywa się, że urodziło się ono martwe",
+        "domniemywa się, że urodziło się ono żywe, chyba że miejsce urodzenia jest nieznane"
+      ]
+    },
+    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pełnoletnim jest osoba, która:",
+      "correct_answer": "ukończyła lat 18 lub zawarła małżeństwo",
+      "incorrect_answers": [
+        "ukończyła lat 18 lub na mocy orzeczenia sądu rodzinnego została uznana za osobę pełnoletnią",
+        "ukończyła lat 18, a w określonych przypadkach wskazanych w prawie karnym również osoba, która ukończyła lat 17"
+      ]
+    },
+        {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Jeżeli osoba niepełnoletnia zawarła związek małżeński, w razie unieważnienia małżeństwa przed ukończeniem przez nią 18. roku życia:",
+      "correct_answer": "osoba taka nie traci pełnoletności,",
+      "incorrect_answers": [
+        "uznaje się ją od chwili unieważnienia małżeństwa za osobę niepełnoletnią",
+        "osoba taka nie traci pełnoletności, chyba że sąd rodzinny orzeknie inaczej"
+      ]
+    },
+        {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pełną zdolność do czynności prawnych nabywa się z chwilą:",
+      "correct_answer": "uzyskania pełnoletniości",
+      "incorrect_answers": [
+        "ukończenia 17 lat",
+        "ukończenia 13 lat"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Nie mają zdolności do czynności prawnych:",
+      "correct_answer": "osoby, które nie ukończyły 13 lat, oraz osoby ubezwłasnowolnione całkowicie,",
+      "incorrect_answers": [
+        "osoby, które nie ukończyły 18 lat, oraz osoby ubezwłasnowolnione całkowicie",
+        "osoby, które nie ukończyły 18 lat, lub nie zawarły związku małżeńskiego oraz osoby ubezwłasnowolnione całkowicie"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Osoby ubezwłasnowolnione całkowicie:",
+      "correct_answer": "nie mają zdolności do czynności prawnych",
+      "incorrect_answers": [
+        "mają ograniczoną zdolność do czynności prawnych",
+        "mają pełną zdolność do czynności prawnych"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Osoba, która nie ukończyła 13 lat:",
+      "correct_answer": "nie może zostać ubezwłasnowolniona",
+      "incorrect_answers": [
+        "może być ubezwłasnowolniona, ale tylko częściowo,",
+        "może być ubezwłasnowolniona całkowicie, jeżeli wskutek choroby psychicznej, niedorozwoju umysłowego albo innego rodzaju zaburzeń psychicznych, w szczególności pi- jaństwa lub narkomanii, nie jest w stanie kierować swym postępowaniem"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Ubezwłasnowolnienie całkowite możliwe jest tylko w stosunku do osoby, która:",
+      "correct_answer": "ukończyła 13 lat, jeżeli wskutek choroby psychicznej, niedorozwoju umysłowego albo innego rodzaju zaburzeń psychicznych, w szczególności pijaństwa lub narkomanii, nie jest w stanie kierować swoim postępowaniem",
+      "incorrect_answers": [
+        "ukończyła 18 lat, jeżeli wskutek choroby psychicznej, niedorozwoju umysłowego albo innego rodzaju zaburzeń psychicznych, w szczególności pijaństwa lub narkomanii, nie jest w stanie kierować swoim postępowaniem",
+        "ukończyła 13 lat, jeżeli wskutek choroby psychicznej, niedorozwoju umysłowego albo innego rodzaju zaburzeń psychicznych, w szczególności pijaństwa lub narkomanii, nie jest w stanie kierować swoim postępowaniem"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Dla osoby ubezwłasnowolnionej całkowicie, pozostającej pod władzą rodzicielską:",
+      "correct_answer": "nie ustanawia się opieki",
+      "incorrect_answers": [
+        "obowiązkowo ustanawia się opiekę",
+        "ustanawia się opiekę, chyba że ze względu na dobro osoby ubezwłasnowolnionej oraz ważny interes społeczny sąd uzna, że nie jest to konieczne"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "12 letni Adam H. sprzedał Grzegorzowi P. rower za cenę 200 zł. Umowa sprzedaży:",
+      "correct_answer": "jest nieważna",
+      "incorrect_answers": [
+        "staje się ważna z chwilą wykonania",
+        "może być potwierdzona przez przedstawiciela ustawowego"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Czynność prawna dokonana przez osobę, która nie ma zdolności do czynności prawnych, jest:",
+      "correct_answer": "nieważna, jednak gdy osoba niezdolna do czynności prawnych zawarła umowę należącą do umów powszechnie zawieranych w drobnych bieżących sprawach życia codzien- nego, umowa taka staje się ważna z chwilą jej wykonania, chyba że pociąga za sobą rażące pokrzywdzenie osoby niezdolnej do czynności prawnych",
+      "incorrect_answers": [
+        "bezwzględnie nieważna",
+        "nieważna, jednak gdy osoba niezdolna do czynności prawnych zawarła umowę należącą do umów powszechnie zawieranych w drobnych, bieżących sprawach życia codzien- nego, umowa taka jest zawsze ważna"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Ograniczoną zdolność do czynności prawnych mają:",
+      "correct_answer": "małoletni, którzy ukończyli 13 lat, oraz osoby ubezwłasnowolnione częściowo",
+      "incorrect_answers": [
+        "osoby niepełnoletnie oraz ubezwłasnowolnione częściowo",
+        "małoletni, którzy ukończyli 13 lat, oraz osoby ubezwłasnowolnione całkowicie,"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Ubezwłasnowolnienie częściowe osoby pełnoletniej powinno być uzasadnione tym, że:",
+      "correct_answer": "stan tej osoby nie uzasadnia ubezwłasnowolnienia całkowitego, lecz potrzebna jest pomoc do prowadzenia jej spraw",
+      "incorrect_answers": [
+        "nie istnieje potrzeba ubezwłasnowolnienia całkowitego, osoba taka zdolna jest bowiem do podejmowania drobnych, bieżących czynności z życia codziennego bez uszczerbku dla swego dobra",
+        "stan tej osoby nie uzasadnia ubezwłasnowolnienia całkowitego, lecz niezbędne jest prowadzenie za nią jej spraw majątkowych"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Powodem ubezwłasnowolnienia częściowego osoby pełnoletniej może być:",
+      "correct_answer": "choroba psychiczna, niedorozwój umysłowy albo innego rodzaju zaburzenia psychiczne, w szczególności pijaństwo lub narkomania",
+      "incorrect_answers": [
+        "ciężka choroba, zaburzenia rozwoju intelektualnego albo innego rodzaju zaburzenia psychiczne, w szczególności pijaństwo lub narkomania",
+        "ciężka choroba, niedorozwój intelektualny albo innego rodzaju zaburzenia psychiczne, w szczególności pijaństwo lub narkomania"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Dla osoby ubezwłasnowolnionej częściowo ustanawia się:",
+      "correct_answer": "kuratelę",
+      "incorrect_answers": [
+        "opiekę",
+        "pełnomocnika"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Aby czynność prawna, przez którą osoba ograniczona w zdolności do czynności prawnych zaciąga zobowiązanie lub rozporządza swoim prawem, była ważna, potrzebne jest:",
+      "correct_answer": "uzyskanie zgody jej przedstawiciela ustawowego (z zastrzeżeniem wyjątków w ustawie przewidzianych).",
+      "incorrect_answers": [
+        "osoba ograniczona w zdolności do czynności prawnych nie może zaciągać zobowiązań ani rozporządzać swoim prawem",
+        " uzyskanie potwierdzenia jej przedstawiciela ustawowego (z zastrzeżeniem wyjątków w ustawie przewidzianych)"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Aby umowa zawarta przez osobę ograniczoną w zdolności do czynności prawnych bez wymaganej zgody przedstawiciela ustawowego była ważna, niezbędne jest:",
+      "correct_answer": "potwierdzenie umowy przez tego przedstawiciela",
+      "incorrect_answers": [
+        "pisemne stwierdzenie braku zastrzeżeń ze strony przedstawiciela ustawowego",
+        "uzyskanie na umowie podpisu przedstawiciela ustawowego"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Umowa zawarta przez osobę ograniczoną w zdolności do czynności prawnych bez wymaganej zgody przedstawiciela ustawowego, potwierdzona po uzyskaniu pełnoletno- ści przez tę osobę, jest:",
+      "correct_answer": "ważna",
+      "incorrect_answers": [
+        "nieważna",
+        "ważna, o ile zostanie potwierdzona również przez przedstawiciela ustawowego"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Strona, która zawarła umowę z osobą ograniczoną w zdolności do czynności prawnych bez wymaganej zgody przedstawiciela ustawowego:",
+      "correct_answer": "nie może powoływać się na brak zgody jej przedstawiciela ustawowego",
+      "incorrect_answers": [
+        "może powoływać się na brak zgody jej przedstawiciela ustawowego",
+        "nie może powoływać się na brak zgody jej przedstawiciela ustawowego, o ile o ograniczeniu w zdolności do czynności prawnych wiedziała lub mogła z łatwością się dowiedzieć"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Strona, która zawarła umowę z osobą ograniczoną w zdolności do czynności prawnych bez wymaganej zgody przedstawiciela ustawowego, może:",
+      "correct_answer": "wyznaczyć temu przedstawicielowi odpowiedni termin do potwierdzenia umowy; staje się wolna po bezskutecznym upływie wyznaczonego terminu",
+      "incorrect_answers": [
+        "wyznaczyć temu przedstawicielowi odpowiedni termin do potwierdzenia umowy; po bezskutecznym upływie wyznaczonego terminu umowa jest nieważna",
+        "wyznaczyć temu przedstawicielowi odpowiedni termin do potwierdzenia umowy; po bezskutecznym upływie wyznaczonego terminu umowa staje się zobowiązaniem naturalnym"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Jeżeli osoba ograniczona w zdolności do czynności prawnych dokonała sama jednostronnej czynności prawnej, do której ustawa wymaga zgody przedstawiciela ustawowego:",
+      "correct_answer": "czynność jest nieważna",
+      "incorrect_answers": [
+        "czynność jest ważna",
+        "czynność jest ważna, o ile strony tej czynności wiedziały lub z łatwością mogły się dowiedzieć o ograniczeniu w zdolności do czynności prawnych"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Osoba ograniczona w zdolności do czynności prawnych:",
+      "correct_answer": "może bez zgody przedstawiciela ustawowego zawierać umowy należące do umów powszechnie zawieranych w drobnych bieżących sprawach życia codziennego.",
+      "incorrect_answers": [
+        "może bez zgody przedstawiciela ustawowego zawierać umowy należące do umów powszechnie zawieranych w drobnych bieżących sprawach życia codziennego, chyba że umowa taka wiązałaby się z rażącym pokrzywdzeniem takiej osoby",
+        "nie może bez zgody przedstawiciela ustawowego zawierać żadnych umów"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Osoba ograniczona w zdolności do czynności prawnych:",
+      "correct_answer": "może bez zgody przedstawiciela ustawowego rozporządzać swoim zarobkiem, chyba że sąd opiekuńczy z ważnych powodów inaczej postanowi",
+      "incorrect_answers": [
+        "nie może bez zgody przedstawiciela ustawowego rozporządzać swoim zarobkiem",
+        "może bez zgody przedstawiciela ustawowego rozporządzać swoim zarobkiem, chyba że wiązałoby się to z rażącym naruszeniem interesu prawnego takiej osoby"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Jeżeli przedstawiciel ustawowy osoby ograniczonej w zdolności do czynności prawnych oddał jej określone przedmioty majątkowe do swobodnego użytku:",
+      "correct_answer": "osoba ta uzyskuje pełną zdolność w zakresie czynności prawnych, które tych przedmiotów dotyczą, z wyjątkiem czynności prawnych, do których dokonania nie wystar- cza według ustawy zgoda przedstawiciela ustawowego",
+      "incorrect_answers": [
+        "osoba ta uzyskuje ograniczoną zdolność w zakresie czynności prawnych, które tych przedmiotów dotyczą",
+        "osoba ta uzyskuje pełną zdolność w zakresie czynności prawnych, które tych przedmiotów dotyczą, z wyjątkiem czynności prawnych, do których dokonania uprawniona jest tylko osoba o pełnej zdolności do czynności prawnych"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Osoba fizyczna dokonująca z przedsiębiorcą czynności prawnej niezwiązanej bezpośrednio z jej działalnością gospodarczą lub zawodową to:",
+      "correct_answer": "konsument",
+      "incorrect_answers": [
+        "remitent",
+        "oblat"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Osobami prawnymi są:",
+      "correct_answer": "Skarb Państwa i jednostki organizacyjne, którym przepisy szczególne przyznają osobowość prawną.",
+      "incorrect_answers": [
+        "państwowe jednostki organizacyjne oraz spółki prawa handlowego, którym ustawa – Kodeks spółek handlowych przyznaje osobowość prawną",
+        "państwowe jednostki organizacyjne oraz Skarb Państwa, o ile przepisy szczegółowe nie stanowią inaczej"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Do jednostek organizacyjnych niebędących osobami prawnymi, którym ustawa przy- znaje zdolność prawną, stosuje się odpowiednio przepisy:",
+      "correct_answer": "o osobach prawnych",
+      "incorrect_answers": [
+        "o państwowych jednostkach organizacyjnych",
+        "o osobach fizycznych"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Członkowie jednostek organizacyjnych niebędących osobami prawnymi, którym usta- wa przyznaje zdolność prawną, za zobowiązania jednostek:",
+      "correct_answer": "ponoszą odpowiedzialność subsydiarną; odpowiedzialność ta powstaje z chwilą, gdy jednostka organizacyjna stała się niewypłacalna – o ile ustawa inaczej nie stanowi",
+      "incorrect_answers": [
+        "nie ponoszą odpowiedzialności, o ile ustawa inaczej nie stanowi",
+        "ponoszą odpowiedzialność solidarną; odpowiedzialność ta powstaje z chwilą powstania zobowiązania"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Podmiotem praw i obowiązków, które dotyczą mienia państwowego nienależącego do innych państwowych osób prawnych, jest w stosunkach cywilnoprawnych:",
+      "correct_answer": "Skarb Państwa",
+      "incorrect_answers": [
+        "Prokuratoria Generalna Rzeczypospolitej Polskiej",
+        "przedstawiciel właściwego miejscowo organu rządowej administracji zespolonej"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Powstanie, ustrój i ustanie osób prawnych określa (-ją):",
+      "correct_answer": "właściwe przepisy; w wypadkach i w zakresie w przepisach tych przewidzianych organizację i sposób działania osoby prawnej reguluje także jej statut",
+      "incorrect_answers": [
+        "statut osoby prawnej",
+        "tylko ustawa"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Jednostka organizacyjna uzyskuje osobowość prawną z chwilą:",
+      "correct_answer": "jej wpisu do właściwego rejestru, chyba że przepisy szczególne stanowią inaczej",
+      "incorrect_answers": [
+        "uchwalenia statutu",
+        "ukonstytuowania jej władz"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Jednostka organizacyjna uzyskuje osobowość prawną z chwilą jej wpisu do rejestru, chyba że przepisy szczególne stanowią inaczej. Rodzaje tych rejestrów oraz ich organi- zację i sposób prowadzenia reguluje (-ją):",
+      "correct_answer": "odrębne od Kodeksu cywilnego przepisy",
+      "incorrect_answers": [
+        "ustawa – Kodeks cywilny",
+        "rozporządzenie Prezesa RM"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Osoba prawna działa w sposób:",
+      "correct_answer": "przewidziany w ustawie i opartym na niej statucie",
+      "incorrect_answers": [
+        "określony w Kodeksie cywilnym",
+        "określony przez jej właściwe organy, zgodnie z ustawą"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Osoba prawna działa poprzez:",
+      "correct_answer": "swoje organy w sposób przewidziany w ustawie i w opartym na niej statucie",
+      "incorrect_answers": [
+        "swoich przedstawicieli i prokurentów w sposób przewidziany w ustawie i w opartym na niej statucie",
+        "swoich przedstawicieli w sposób przewidziany w ustawie i w opartym na niej statucie"
+      ]
+    },
+            {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Kto jako organ osoby prawnej zawarł umowę w jej imieniu, nie będąc jej organem albo przekraczając zakres umocowania takiego organu, obowiązany jest do:",
+      "correct_answer": "zwrotu tego, co otrzymał od drugiej strony w wykonaniu umowy, oraz do naprawienia szkody, którą druga strona poniosła przez to, że zawarła umowę, nie wiedząc o braku umocowania,",
+      "incorrect_answers": [
+        "zwrotu tego, co otrzymał od drugiej strony w wykonaniu umowy, wraz z korzyściami",
+        "zwrotu tego, co otrzymał od drugiej strony w wykonaniu umowy, wraz z dochodem"
+      ]
+    },
+                {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Kto jako organ osoby prawnej, która nie istnieje, zawarł umowę w jej imieniu, obowiązany jest do",
+      "correct_answer": "zwrotu tego, co otrzymał od drugiej strony w wykonaniu umowy, oraz do naprawienia szkody, którą druga strona poniosła przez to, że zawarła umowę, nie wiedząc o tym, żeosoba prawna nie istnieje",
+      "incorrect_answers": [
+        "zwrotu tego, co otrzymał od drugiej strony w wykonaniu umowy, wraz z korzyściami",
+        "zwrotu tego, co otrzymał od drugiej strony w wykonaniu umowy, wraz z dochodem"
+      ]
+    },
+                {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Za zobowiązania państwowych osób prawnych Skarb Państwa:",
+      "correct_answer": "nie ponosi odpowiedzialności, chyba że przepis odrębny stanowi inaczej",
+      "incorrect_answers": [
+        "nie ponosi odpowiedzialności",
+        "ponosi odpowiedzialność"
+      ]
+    },
+                {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Za zobowiązania jednostek samorządu terytorialnego i samorządowych osób prawnych odpowiedzialność:",
+      "correct_answer": "ponoszą odpowiednio jednostki samorządu terytorialnego i samorządowe osoby prawne, chyba że przepis odrębny stanowi inaczej",
+      "incorrect_answers": [
+        "ponosi Skarb Państwa",
+        "ponosi Prokuratoria Generalna Rzeczypospolitej Polskiej"
+      ]
+    },
+                {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Siedzibą osoby prawnej jest:",
+      "correct_answer": "miejscowość, w której ma siedzibę jej organ zarządzający, chyba że ustawa albo oparty na niej statut stanowi inaczej.",
+      "incorrect_answers": [
+        "miejscowość, w której została ona zarejestrowana",
+        "miejscowość, w której działa jej organ zarządzający"
+      ]
+    },
+                {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Kurator jest ustanawiany przez sąd, w przypadku gdy osoba prawna:",
+      "correct_answer": "osoba prawna nie może być reprezentowana lub prowadzić swoich spraw ze względu na brak organu albo brak w składzie organu uprawnionego do jej reprezentowania",
+      "incorrect_answers": [
+        "prowadzi swoje sprawy w sposób zagrażający obrotowi gospodarczemu",
+        "nie może prowadzić swoich spraw z powodu bezczynności powołanych do tego organów"
+      ]
+    },
+                {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Do czasu powołania albo uzupełnienia składu organu, o którym mowa powyżej, albo ustanowienia likwidatora kurator:",
+      "correct_answer": "reprezentuje osobę prawną oraz prowadzi jej sprawy w granicach określonych w zaświadczeniu sądu",
+      "incorrect_answers": [
+        "podejmuje wyłącznie czynności niecierpiące zwłoki",
+        "reprezentuje osobę prawną oraz podejmuje czynności mające na celu likwidację osoby prawnej"
+      ]
+    },
+                    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Do ochrony dóbr osobistych osób prawnych stosuje się odpowiednio przepisy:",
+      "correct_answer": "o ochronie dóbr osobistych osób fizycznych",
+      "incorrect_answers": [
+        "o ochronie osób fizycznych i prawnych",
+        "szczególne o ochronie dóbr osobistych osób prawnych"
+      ]
+    },
+                    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Przedsiębiorcą jest:",
+      "correct_answer": "osoba fizyczna, osoba prawna i jednostka organizacyjna, której przepisy szczególne przyznają zdolność prawną, prowadząca we własnym imieniu działalność gospodarczą lub zawodową",
+      "incorrect_answers": [
+        "wyłącznie osoba prawna, prowadząca we własnym imieniu działalność gospodarczą lub zawodową",
+        "wyłącznie osoba fizyczna, prowadząca we własnym imieniu działalność gospodarczą lub zawodową"
+      ]
+    },
+                    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Przedsiębiorca działa pod:",
+      "correct_answer": "firmą",
+      "incorrect_answers": [
+        "nazwą lub własnym nazwiskiem",
+        "nazwą"
+      ]
+    },
+                    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Firmę ujawnia się",
+      "correct_answer": "we właściwym rejestrze, chyba że przepisy odrębne stanowią inaczej",
+      "incorrect_answers": [
+        "w rejestrze oraz na szyldzie",
+        "poprzez obowiązkowe sporządzenie pieczątki"
+      ]
+    },
+                    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Firma przedsiębiorcy:",
+      "correct_answer": "powinna się odróżniać dostatecznie od firm innych przedsiębiorców prowadzących działalność na tym samym rynku",
+      "incorrect_answers": [
+        "nie może być podobna do firm innych przedsiębiorców prowadzących działalność na tym samym rynku",
+        "powinna nawiązywać formą do innych przedsiębiorców prowadzących podobną dzia- łalność na tym samym rynku"
+      ]
+    },
+                    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Firma przedsiębiorcy nie może:",
+      "correct_answer": "wprowadzać w błąd, w szczególności co do osoby przedsiębiorcy, przedmiotu działalności przedsiębiorcy, miejsca działalności, źródeł zaopatrzenia",
+      "incorrect_answers": [
+        "być za długa oraz wprowadzać w błąd, w szczególności co do osoby przedsiębiorcy, przedmiotu działalności przedsiębiorcy, miejsca działalności, źródeł zaopatrzenia",
+        "wskazywać innych niż rzeczywiste podstaw działalności przedsiębiorcy oraz wprowadzać w błąd, w szczególności co do osoby przedsiębiorcy, przedmiotu działalności przedsiębiorcy, miejsca działalności lub źródeł zaopatrzenia."
+      ]
+    },
+                    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Firmą osoby fizycznej jest:",
+      "correct_answer": "jej imię i nazwisko, co nie wyklucza włączenia do firmy pseudonimu lub określeń wskazujących na przedmiot działalności przedsiębiorcy, miejsce jej prowadzenia oraz innych określeń dowolnie obranych",
+      "incorrect_answers": [
+        "pseudonim lub określenie wskazujące na przedmiot działalności przedsiębiorcy, miejsce jej prowadzenia lub inne określenia dowolnie obrane",
+        "dowolnie obrane określenie, z zastrzeżeniem, że firma powinna się odróżniać dostatecz- nie od firm innych przedsiębiorców prowadzących działalność na tym samym rynku."
+      ]
+    },
+                    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Firmą osoby prawnej jest:",
+      "correct_answer": "jej nazwa",
+      "incorrect_answers": [
+        "jej adres i nazwa",
+        "jej adres, nazwa i numer REGON"
+      ]
+    },
+                      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Czy określenie formy prawnej osoby prawnej w jej firmie może być podane w skrócie?",
+      "correct_answer": "tak",
+      "incorrect_answers": [
+        "nie",
+        "tylko w przypadkach w ustawie określonych"
+      ]
+    },
+                      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Firma osoby prawnej zawiera:",
+      "correct_answer": "określenie formy prawnej osoby prawnej, które może być podane w skrócie, a ponadto może wskazywać na przedmiot działalności, siedzibę tej osoby oraz inne określenia dowolnie obrane",
+      "incorrect_answers": [
+        "koniecznie siedzibę i formę prawną tej osoby, fakultatywnie może także zawierać przedmiot działalności",
+        "co najmniej przedmiot działalności, siedzibę tej osoby oraz inne określenia dowolnie obrane"
+      ]
+    },
+                      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Firma osoby prawnej może zawierać nazwisko lub pseudonim osoby fizycznej, jeżeli:",
+      "correct_answer": "służy to ukazaniu związków tej osoby z powstaniem lub działalnością przedsiębiorcy",
+      "incorrect_answers": [
+        "służy to ściślejszemu związaniu działalności firmy z działalnością przedsiębiorcy",
+        "jest to zwyczajowo przyjęte przy prowadzeniu danego rodzaju działalności gospodarczej"
+      ]
+    },
+                      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Umieszczenie nazwiska albo pseudonimu osoby fizycznej w firmie osoby prawnej wymaga:",
+      "correct_answer": "pisemnej zgody tej osoby",
+      "incorrect_answers": [
+        "pisemnej zgody tej osoby, stwierdzonej aktem notarialnym",
+        "pisemnej zgody tej osoby, z podpisem poświadczonym notarialnie"
+      ]
+    },
+                      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Umieszczenie nazwiska albo pseudonimu osoby fizycznej w firmie osoby prawnej, w przypadku śmierci tej osoby",
+      "correct_answer": "jest możliwe, za pisemną zgodą jej małżonka i dzieci",
+      "incorrect_answers": [
+        "jest niemożliwe",
+        "jest niemożliwe, chyba że osoba ta w testamencie wyraziła na to zgodę"
+      ]
+    },
+                      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Posługiwanie się przez przedsiębiorcę skrótem firmy jest:",
+      "correct_answer": "dopuszczalne",
+      "incorrect_answers": [
+        "niedopuszczalne",
+        "dopuszczalne tylko w sytuacjach przewidzianych w ustawie"
+      ]
+    },
+                      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Firma oddziału osoby prawnej zawiera:",
+      "correct_answer": "pełną nazwę tej osoby oraz określenie „oddział”, ze wskazaniem miejscowości, w której oddział ma siedzibę",
+      "incorrect_answers": [
+        "pełną nazwę tej osoby oraz określenie oddział",
+        "pełną nazwę tej osoby oraz określenie oddział, ze wskazaniem miejscowości, w której oddział ma siedzibę oraz siedziby głównej osoby prawnej"
+      ]
+    },
+                      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Zmiana firmy:",
+      "correct_answer": "wymaga ujawnienia w rejestrze",
+      "incorrect_answers": [
+        "powinna zostać ujawniona w rejestrze, w terminie 14 dni od jej dokonania",
+        "nie wymaga ujawnienia w rejestrze"
+      ]
+    },
+                      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "W przypadku gdy osoba prawna ulega przekształceniu:",
+      "correct_answer": "osoba prawna może zachować jej dotychczasową firmę, z wyjątkiem określenia wskazującego formę prawną osoby prawnej, jeżeli uległa ona zmianie",
+      "incorrect_answers": [
+        "jej firma powinna ulec zmianie",
+        "jej firma ulega zmianie"
+      ]
+    },
+                      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Po przekształceniu spółki osobowej:",
+      "correct_answer": "można zachować jej dotychczasową firmę, z wyjątkiem określenia wskazującego formę prawną spółki, jeżeli uległa ona zmianie",
+      "incorrect_answers": [
+        "firma spółki musi ulec stosownej zmianie",
+        "firma spółki musi ulec stosownej zmianie wraz z wpisem do rejestru"
+      ]
+    }
+  ]
+}
