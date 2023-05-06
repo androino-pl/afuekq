@@ -1,0 +1,617 @@
+ {
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Mienie to:",
+      "correct_answer": "własność i inne prawa majątkowe",
+      "incorrect_answers": [
+        "własność i inne prawa majątkowe i niemajątkowe",
+        "własność i inne prawa majątkowe i niemajątkowe, nienależące do Skarbu Państwa,",
+		"żadna odpowiedź nie jest poprawna"
+      ]
+    },
+	    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Własność i inne prawa majątkowe, stanowiące mienie państwowe, przysługują:",
+      "correct_answer": "Skarbowi Państwa albo innym państwowym osobom prawnym",
+      "incorrect_answers": [
+        "wyłącznie Skarbowi Państwa",
+        "wyłącznie państwowym osobom prawnym",
+		"żadna odpowiedź nie jest poprawna"
+      ]
+    },
+	    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Uprawnienia majątkowe Skarbu Państwa względem państwowych osób prawnych określają:",
+      "correct_answer": "odrębne przepisy, w szczególności regulujące ich ustrój",
+      "incorrect_answers": [
+        "ich statuty",
+        "ich regulaminy",
+		"żadna odpowiedź nie jest poprawna"
+      ]
+    },
+	    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Rzeczami w rozumieniu Kodeksu cywilnego są:",
+      "correct_answer": "tylko przedmioty materialne",
+      "incorrect_answers": [
+        "przedmioty materialne i niematerialne",
+		"przedmioty materialne oraz prawa majątkowe",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+	    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Nieruchomościami są:",
+      "correct_answer": "części powierzchni ziemskiej stanowiące odrębny przedmiot własności (grunty), jak również budynki trwale z gruntem związane lub części takich budynków, jeżeli na mocy przepisów szczególnych stanowią odrębny od gruntu przedmiot własności",
+      "incorrect_answers": [
+        "grunty oraz stojące na nich budynki, jeżeli na mocy Kodeksu cywilnego stanowią części nieruchomości",
+		"grunty, budynki oraz prawa wpisane do ksiąg wieczystych",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+	    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Nieruchomościami rolnymi (gruntami rolnymi) są nieruchomości, które:",
+      "correct_answer": "są lub mogą być wykorzystywane do prowadzenia działalności wytwórczej w rolnic- twie w zakresie produkcji roślinnej i zwierzęcej, nie wyłączając produkcji ogrodniczej, sadowniczej i rybnej",
+      "incorrect_answers": [
+        "są lub mogą być wykorzystywane do prowadzenia działalności wytwórczej w rolnic- twie w zakresie produkcji roślinnej i zwierzęcej, z wyłączeniem produkcji ogrodniczej, sadowniczej i rybnej",
+		"są lub mogą być wykorzystywane do prowadzenia działalności gospodarczej w rolnic- twie, nie wyłączając produkcji ogrodniczej, sadowniczej i rybnej",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+	    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Część składowa rzeczy:",
+      "correct_answer": "nie może być odrębnym przedmiotem własności i innych praw rzeczowych",
+      "incorrect_answers": [
+        "może być odrębnym przedmiotem własności i innych praw rzeczowych",
+		"może być przedmiotem praw rzeczowych związanych z własnością",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+	    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Częścią składową rzeczy jest:",
+      "correct_answer": "wszystko, co nie może być od niej odłączone bez uszkodzenia lub istotnej zmiany cało- ści albo bez uszkodzenia lub istotnej zmiany przedmiotu odłączonego",
+      "incorrect_answers": [
+        "to tylko, co może być od niej odłączone bez uszkodzenia lub istotnej zmiany całości albo bez uszkodzenia lub istotnej zmiany przedmiotu odłączonego",
+		"wszystko to, czego nie da się od niej odłączyć bez zniszczenia samej rzeczy, jak też przedmiotu odłączonego",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+	    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Przedmioty połączone z rzeczą tylko dla przemijającego użytku:",
+      "correct_answer": "nie stanowią jej części składowych",
+      "incorrect_answers": [
+        "stanowią jej części składowe",
+		"nie stanowią jej części składowych, chyba że nie da się ich odłączyć bez znacznego uszkodzenia rzeczy głównej",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+	    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Do części składowych gruntu należą w szczególności:",
+      "correct_answer": "budynki i inne urządzenia trwale z gruntem związane, jak również drzewa i inne rośliny od chwili zasadzenia lub zasiania, z zastrzeżeniem wyjątków w ustawie przewidzianych",
+      "incorrect_answers": [
+        "budynki oraz przedmioty trwale z gruntem związane, jak również drzewa i inne rośliny żyjące",
+		"drzewa, budynki oraz urządzenia umieszczone w gruncie",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+	    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Urządzenia służące do doprowadzania lub odprowadzania płynów, pary, gazu, energii elektrycznej oraz inne urządzenia podobne:",
+      "correct_answer": "należą do części składowych nieruchomości, o ile nie wchodzą w skład przedsiębiorstwa lub zakładu",
+      "incorrect_answers": [
+        "nie należą do części składowych nieruchomości",
+		"należą do części składowych nieruchomości, o ile wchodzą w skład przedsiębiorstwa lub zakładu",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+		    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Prawa związane z własnością nieruchomości są:",
+      "correct_answer": "częścią składową nieruchomości",
+      "incorrect_answers": [
+        "pożytkami cywilnymi",
+		"pożytkami naturalnymi",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+		    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Koło zapasowe:",
+      "correct_answer": "stanowi przynależność samochodu",
+      "incorrect_answers": [
+        "stanowi część składową samochodu",
+		"nie może być zbyte bez zbycia samochodu",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+		    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Przynależnościami są:",
+      "correct_answer": "rzeczy ruchome potrzebne do korzystania z innej rzeczy (rzeczy głównej) zgodnie z jej przeznaczeniem, jeżeli pozostają z nią w faktycznym związku odpowiadającym temu celowi",
+      "incorrect_answers": [
+        "rzeczy ruchome potrzebne do korzystania z innej rzeczy (rzeczy głównej), jeżeli pozo- stają z nią w związku odpowiadającym temu celowi",
+		"rzeczy ruchome oraz nieruchomości potrzebne do korzystania z innej rzeczy zgodnie z jej przeznaczeniem, jeżeli pozostają z nią w związku odpowiadającym temu celowi",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+		    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Rzecz nienależąca do właściciela rzeczy głównej:",
+      "correct_answer": "nie może być przynależnością",
+      "incorrect_answers": [
+        "może być przynależnością",
+		"może być przynależnością, chyba że właściciel zbył ją przed powstaniem roszczenia",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+		    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Przynależność, która została pozbawiona faktycznego związku z rzeczą główną:",
+      "correct_answer": "nie traci charakteru przynależności, o ile pozbawienie jej faktycznego związku z rzeczą główną ma charakter przemijający",
+      "incorrect_answers": [
+        "nie traci charakteru przynależności",
+		"traci charakter przynależności",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+		    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Czynność prawna mająca za przedmiot rzecz główną:",
+      "correct_answer": "odnosi skutek także względem przynależności, chyba że co innego wynika z treści czynności albo z przepisów szczególnych",
+      "incorrect_answers": [
+        "zawsze odnosi skutek także względem przynależności",
+		"nie odnosi skutku względem przynależności",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+		    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Płody rzeczy i inne odłączone od niej części składowe są:",
+      "correct_answer": "pożytkami naturalnymi rzeczy, o ile według zasad prawidłowej gospodarki stanowią normalny dochód z rzeczy",
+      "incorrect_answers": [
+        "pożytkami prawa z rzeczy, o ile według zasad prawidłowej gospodarki stanowią normalny dochód z rzeczy",
+		"pożytkami cywilnymi rzeczy, o ile według zasad prawidłowej gospodarki stanowią normalny dochód z rzeczy",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+		    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Dochody, które rzecz przynosi na podstawie stosunku prawnego, są:",
+      "correct_answer": "pożytkami cywilnymi rzeczy",
+      "incorrect_answers": [
+        "pożytkami naturalnymi rzeczy, o ile według zasad prawidłowej gospodarki stanowią normalny dochód z rzeczy",
+		"pożytkami cywilnymi rzeczy, o ile według zasad prawidłowej gospodarki stanowią normalny dochód z rzeczy",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+		    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Dochody, które prawo przynosi zgodnie ze swym społeczno-gospodarczym przeznaczeniem, są:",
+      "correct_answer": "pożytkami prawa",
+      "incorrect_answers": [
+        "pożytkami cywilnymi",
+		"pożytkami naturalnymi",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+		    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Uprawnionemu do pobierania pożytków przypadają:",
+      "correct_answer": "pożytki naturalne, które zostały odłączone od rzeczy w czasie trwania jego uprawnienia, a pożytki cywilne – w stosunku do czasu trwania tego uprawnienia",
+      "incorrect_answers": [
+        "pożytki cywilne, które zostały odłączone od rzeczy w czasie trwania jego uprawnienia, a pożytki naturalne – w stosunku do czasu trwania tego uprawnienia",
+		"pożytki prawa, które zostały odłączone od rzeczy w czasie trwania jego uprawnienia, a pożytki naturalne – w stosunku do czasu trwania tego uprawnienia",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+			    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Jeżeli uprawniony do pobierania pożytków poczynił nakłady w celu uzyskania pożyt- ków, które przypadły innej osobie:",
+      "correct_answer": "należy mu się od niej wynagrodzenie za te nakłady. Wynagrodzenie nie może przenosić wartości pożytków.",
+      "incorrect_answers": [
+        "przysługuje mu roszczenie o zwrot pożytków",
+		"należy mu się od niej odszkodowanie za te nakłady. Odszkodowanie nie może przenosić wartości pożytków",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+			    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Zorganizowany zespół składników niematerialnych i materialnych przeznaczonych do prowadzenia działalności gospodarczej to:",
+      "correct_answer": "przedsiębiorstwo",
+      "incorrect_answers": [
+        "zakład",
+		"firma",
+        "wszystkie odpowiedzi są poprawne"
+      ]
+    },
+			    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Własność urządzeń, materiałów i wyrobów oraz inne prawa rzeczowe do ruchomości:",
+      "correct_answer": "wchodzą w skład przedsiębiorstwa",
+      "incorrect_answers": [
+        "nie wchodzą w skład przedsiębiorstwa",
+		"wchodzą w skład zakładu",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+			    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Wierzytelności, prawa z papierów wartościowych i środki pieniężne:",
+      "correct_answer": "wchodzą w skład przedsiębiorstwa",
+      "incorrect_answers": [
+        "wchodzą w skład zakładu",
+		"stanowią przedmiot odrębnej własności i nie wchodzą ani w skład zakładu, ani przedsiębiorstwa",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+			    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Czynność prawna mająca za przedmiot przedsiębiorstwo obejmuje:",
+      "correct_answer": "wszystko, co wchodzi w skład przedsiębiorstwa, chyba że co innego wynika z treści czynności prawnej albo z przepisów szczególnych",
+      "incorrect_answers": [
+        "zawsze wszystko, co wchodzi w skład przedsiębiorstwa",
+		"tylko to, co obejmuje dana czynność na podstawie przepisów szczególnych",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+			    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "W skład przedsiębiorstwa nie wchodzą:",
+      "correct_answer": "firma",
+      "incorrect_answers": [
+        "wierzytelności",
+		"własność nieruchomości",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+			    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Gospodarstwo rolne obejmuje:",
+      "correct_answer": "grunty rolne wraz z gruntami leśnymi, budynkami lub ich częściami, urządzeniami i inwentarzem, jeżeli stanowią lub mogą stanowić zorganizowaną całość gospodarczą, oraz prawami związanymi z prowadzeniem gospodarstwa rolnego",
+      "incorrect_answers": [
+        "grunty rolne wraz z urządzeniami i inwentarzem oraz prawami związanymi z prowadzeniem gospodarstwa rolnego",
+		"grunty rolne wraz z urządzeniami i inwentarzem",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+			    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Za zobowiązania związane z prowadzeniem przedsiębiorstwa lub gospodarstwa rolnego odpowiada:",
+      "correct_answer": "nabywca przedsiębiorstwa lub gospodarstwa rolnego solidarnie ze zbywcą, chyba że w chwili nabycia nie wiedział o tych zobowiązaniach, mimo zachowania należytej staranności",
+      "incorrect_answers": [
+        "nabywca przedsiębiorstwa lub gospodarstwa rolnego solidarnie ze zbywcą",
+		"nabywca przedsiębiorstwa lub gospodarstwa rolnego",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+			    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Odpowiedzialność nabywcy przedsiębiorstwa lub gospodarstwa rolnego za zobowiązania związane z prowadzeniem przedsiębiorstwa lub gospodarstwa rolnego:",
+      "correct_answer": "ogranicza się do wartości nabytego przedsiębiorstwa lub gospodarstwa według stanu w chwili nabycia, a według cen w chwili zaspokojenia wierzyciela",
+      "incorrect_answers": [
+        "jest pełna i solidarna ze zbywcą",
+		"ogranicza się do wartości nabytego przedsiębiorstwa lub gospodarstwa według cen w chwili nabycia",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+			    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Odpowiedzialność nabywcy przedsiębiorstwa lub gospodarstwa rolnego za zobowią- zania związane z prowadzeniem przedsiębiorstwa lub gospodarstwa rolnego:",
+      "correct_answer": "nie może być wyłączona ani ograniczona bez zgody wierzyciela",
+      "incorrect_answers": [
+        "może być wyłączona w każdym czasie",
+		"może być ograniczona, lecz nie może być wyłączona bez zgody wierzyciela",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+				    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Czynność prawna wywołuje:",
+      "correct_answer": "nie tylko skutki w niej wyrażone, lecz również te, które wynikają z ustawy, z zasad współżycia społecznego i z ustalonych zwyczajów",
+      "incorrect_answers": [
+        "skutki w niej wyrażone oraz wynikające z ustawy",
+		"skutki w niej wyrażone oraz wynikające z zasad współżycia społecznego",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+				    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Zbycie spółdzielczego własnościowego prawa do lokalu przez uprawnioną osobę, która zobowiązała się do jego niezbywania, jest:",
+      "correct_answer": "prawnie skuteczne",
+      "incorrect_answers": [
+        "bezwzględnie nieważne",
+		"uzależnione od potwierdzenia czynności zbycia przez organ spółdzielni wskazany w statucie",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+				    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Jeżeli według ustawy prawo do przeniesienia, obciążenia, zmiany lub zniesienia prawa jest zbywalne, to:",
+      "correct_answer": "nie można przez czynność prawną wyłączyć ani ograniczyć tego prawa",
+      "incorrect_answers": [
+        "można przez czynność prawną wyłączyć lub ograniczyć to prawo",
+		"można przez czynność prawną ograniczyć to prawo, lecz nie można go wyłączyć",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+				    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Zobowiązanie uprawnionego do przeniesienia, obciążenia, zmiany lub zniesienia prawa do tego, że nie dokona oznaczonych rozporządzeń tym prawem, jest:",
+      "correct_answer": "dopuszczalne",
+      "incorrect_answers": [
+        "dopuszczalne tylko w przypadkach prawem przewidzianych",
+		"dopuszczalne tylko w przypadku zobowiązań wyrażonych w pieniądzu",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+				    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Odpowiedzialność nabywcy przedsiębiorstwa lub gospodarstwa rolnego za zobowiązania związane z prowadzeniem przedsiębiorstwa lub gospodarstwa rolnego:",
+      "correct_answer": "nie może być wyłączona ani ograniczona bez zgody wierzyciela",
+      "incorrect_answers": [
+        "może być wyłączona w każdym czasie",
+		"może być ograniczona, lecz nie może być wyłączona bez zgody wierzyciela",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+				    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Czynność prawna sprzeczna z ustawą albo mająca na celu obejście ustawy jest:",
+      "correct_answer": "nieważna, chyba że właściwy przepis przewiduje inny skutek, w szczególności ten, iż na miejsce nieważnych postanowień czynności prawnej wchodzą odpowiednie przepisy ustawy",
+      "incorrect_answers": [
+        "ważna, jednak każdemu, kto ma w tym interes prawny, przysługuje roszczenie o jej unieważnienie",
+		"bezwzględnie nieważna",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+				    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Czynność prawna sprzeczna z zasadami współżycia społecznego jest:",
+      "correct_answer": "nieważna",
+      "incorrect_answers": [
+        "ważna",
+		"ważna, o ile nie niesie ze sobą rażącego pokrzywdzenia stron tej czynności",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+				    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Jeżeli nieważnością jest dotknięta tylko część czynności prawnej, czynność:",
+      "correct_answer": "pozostaje w mocy co do pozostałych części, chyba że z okoliczności wynika, iż bez postanowień dotkniętych nieważnością czynność nie zostałaby dokonana",
+      "incorrect_answers": [
+        "pozostaje w mocy",
+		"pozostaje w mocy, jednak tylko w przypadku gdyby jej unieważnienie niosło ze sobą rażące pokrzywdzenie osoby, której czynność ta dotyczy",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+				    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Dokonianie czynności prawnej przez przedstawiciela:",
+      "correct_answer": "jest możliwe z zastrzeżeniem wyjątków przewidzianych w ustawie albo winikających z właściwości czynności prawnej",
+      "incorrect_answers": [
+        "jest możliwe bez żadnych ograniczeń",
+		"jest możliwe z zastrzeżeniem wyjątków przewidzianych w ustawie",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+				    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Umocowanie do działania w cudzym imieniu może opierać się na:",
+      "correct_answer": "ustawie (przedstawicielstwo ustawowe) albo na oświadczeniu reprezentowanego (pełnomocnictwo)",
+      "incorrect_answers": [
+        "tylko na ustawie",
+		"tylko na oświadczeniu reprezentowanego",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+					    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Osobę czynną, w lokalu przedsiębiorstwa przeznaczonym do obsługiwania publiczności poczytuje się w razie wątpliwości za:",
+      "correct_answer": "umocowaną do dokonywania czynności prawnych, które zazwyczaj bywają dokonywane z osobami korzystającymi z usług tego przedsiębiorstwa",
+      "incorrect_answers": [
+        "umocowaną do dokonywania czynności prawnych związanych z prowadzeniem tego przedsiębiorstwa",
+		"nieumocowaną do dokonywania czynności prawnych, które zazwyczaj bywają dokonywane z osobami korzystającymi z usług tego przedsiębiorstwa",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+					    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pełnomocnictwo ogólne obejmuje umocowanie do czynności:",
+      "correct_answer": "zwykłego zarządu",
+      "incorrect_answers": [
+        "przekraczających zakres zwykłego zarządu",
+		"zwykłego zarządu, chyba że ustawa wymaga pełnomocnictwa do poszczególnej czynności",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+					    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Do czynności przekraczających zakres zwykłego zarządu potrzebne jest:",
+      "correct_answer": "pełnomocnictwo określające ich rodzaj, chyba że ustawa wymaga pełnomocnictwa do poszczególnej czynności",
+      "incorrect_answers": [
+        "upoważnienie",
+		"pełnomocnictwo ogólne",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+					    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Jeżeli do ważności czynności prawnej potrzebna jest szczególna forma, pełnomocnictwo do dokonania tej czynności powinno być udzielone:",
+      "correct_answer": "w tej samej formie",
+      "incorrect_answers": [
+        "w formie pisemnej",
+		"w formie aktu notarialnego",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+					    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pełnomocnictwo ogólne w formie ustniej jest:",
+      "correct_answer": "bezwzględnie nieważne",
+      "incorrect_answers": [
+        "ważne bezwarunkowo",
+		"ważne, o ile zostanie potwierdzone w obecności świadków",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+					    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pełnomocnictwo ogólne powinno być pod rygorem niewazności udzielone w formie:",
+      "correct_answer": "pisemnej",
+      "incorrect_answers": [
+        "pisemnej z podpisami notarialnie poświadczonymi",
+		"aktu notarialnego",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+					    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Okoliczność, że pełnomocnik jest ograniczony w zdolności do czynności prawnych:",
+      "correct_answer": "nie ma wpływu na ważność czynności dokonanej przez niego w imieniu mocodawcy",
+      "incorrect_answers": [
+        "powoduje, że czynność prawna dokonana przez niego w imieniu mocodawcy jest nieważna",
+		"powoduje, że czynność prawna dokonana przez niego w imieniu mocodawcy musi zostać potwierdzona przez jego opiekuna",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+					    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Pełnomocnictwo może być odwołane:",
+      "correct_answer": "w każdym czasie, chyba że mocodawca zrzekł się odwołania pełnomocnictwa z przyczyn uzasadnionych treścią stosunku prawego będącego podstawą pełnomocnictwa",
+      "incorrect_answers": [
+        "w każdym czasie",
+		"tylko w sytuacjach określnonych w ustawie",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+					    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Odwołanie pełnomocnictwa do sprzedaży nieruchomości:",
+      "correct_answer": "może być dokonane w dowolnej formie",
+      "incorrect_answers": [
+        "wymaga zachowania formy aktu notarialnego",
+		"powinno być dokonane na piśmie pod rygorem nieważności",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+					    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Wraz ze śmiercią mocodawcy lub pełnomocnika, pełnomocnictwo:",
+      "correct_answer": "wygasa, chyba że w pełnomocnictwie inaczej zastrzeżono z przyczyn uzasadnionych treścią stosunku prawnego będącego podstawą pełnomocnictwa",
+      "incorrect_answers": [
+        "wygasa",
+		"nie wygasa",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    }
+  ]	
+ } 
