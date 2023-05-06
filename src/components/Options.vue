@@ -165,7 +165,7 @@ const difficulties = ref(['easy', 'medium', 'hard']);
 const selectedDifficulty = ref('easy');
 
 onMounted(() => {
-  fetch('https://bizneto/categories.json')
+  fetch('http://77.55.236.164:8080/categories.json')
     .then((res) => res.json())
     .then((res) => {
       categories.value = res.trivia_categories;
