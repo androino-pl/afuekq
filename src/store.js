@@ -28,7 +28,7 @@ export const store = reactive({
   getData() {
     this.loading = true;
     fetch(
-      `https://bizneto.pl/data.json`
+      `http://77.55.236.164:8080/questions.json?`
     )
       .then((res) => res.json())
       .then((res) => {
