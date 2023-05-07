@@ -1,0 +1,677 @@
+ {
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Roszczenia majątkowe",
+      "correct_answer": "ulegają przedawnieniu z zastrzeżeniem wyjątków przewidzianych w ustawie",
+      "incorrect_answers": [
+        "ulegają przedawnieniu",
+        "nie ulegają przedawnieniu",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Po upływie terminu przedawnienia ten, przeciwko przysługuje roszczenie:",
+      "correct_answer": "może uchylić się od jego zaspokojenia, chyba że zrzeka się korzystania z zarzutu przedawnienia",
+      "incorrect_answers": [
+        "może uchylić się od jego zaspokojenia, chyba że nie zrzeka się korzystania z zarzutu przedawnienia",
+        "może uchylić się od jego zaspokojenia",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Po upływie terminu przedawnienia, ten przeciwko komu przysługuje roszczenie, może uchylić się od jego zaspokojenia, chyba że zrzeka się korzystania z zarzutu przedawnienia. Zrzeczenie się zarzutu przedawnienia przed upływem terminu jest:",
+      "correct_answer": "nieważne, chyba że ustawa stanowi inaczej",
+      "incorrect_answers": [
+        "ważne",
+        "nieważne",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Roszczenie przedsiębiorcy budowlanego o wynagrodzenie za wykonanie domu jednoroedzinnego przedawnia się w terminie:",
+      "correct_answer": "3 lat",
+      "incorrect_answers": [
+        "2 lat",
+        "10 lat",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Jeżeli przepis szczególny nie stanowi inaczej, termin przedawnienia wynosi lat:",
+      "correct_answer": "10, a dla roszczeń o świadczenia okresowe oraz roszczeń związanych z prowadzeniem działalności gospodarczej - 3 lata",
+      "incorrect_answers": [
+        "3",
+        "5, a dla roszczeń o świadczenia okresowe oraz roszczeń związanych z prowadzeniem działalności gospodarczej - 3 lata",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Przedłużenie terminu przedawnienia przez czynność prawną jest:",
+      "correct_answer": "niedopuszczalne",
+      "incorrect_answers": [
+        "możliwe",
+        "możliwe, o ile ustawa nie stanowi inaczej",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Terminy przedawnienia",
+      "correct_answer": "nie mogą być skracane przez czynność prawną",
+      "incorrect_answers": [
+        "mogą być skracane przez czynność prawną",
+        "mogą być przedłużane przez czynność prawną",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Bieg przedawnienia rozpoczyna się od dnia, w którym roszczenie",
+      "correct_answer": "stało się wymagalne",
+      "incorrect_answers": [
+        "powstało",
+        "powstało, chyba że ustawa stanowi inaczej",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Jeżeli wymagalność roszczenia zależy od podjęcia określonej czynności przez uprawnionego, bieg terminu przedawnienia roszczenia rozpoczyna się od dnia, w którym:",
+      "correct_answer": "roszczenie stałoby się wymagalne, gdyby uprawniony podjął czynność w najwcześniej możliwym terminie",
+      "incorrect_answers": [
+        "rosczenie powstało",
+        "roszczenie stało się wymagalne",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Bieg przedawnienia roszczeń o zaniechanie rozpoczyna się od dnia, w któym:",
+      "correct_answer": "ten, przeciwko komu roszczenie przysługuje, nie zastosował się do treści roszczenia",
+      "incorrect_answers": [
+        "roszczenie powstało",
+        "zgłoszono roszczenie",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Bieg przedawnienia co do roszczeń, które przysługują dzieciom przeciwko rodzicom:",
+      "correct_answer": "nie rozpoczyna się, a rozpoczęty ulega zawieszeniu, przez czas trwania władzy rodzicielskiej",
+      "incorrect_answers": [
+        "nie rozpoczyna się, a rozpoczęty ulega zawieszeniu do chwili osiągnięcia przez dziecko pełnoletności",
+        "ulega zawieszeniu do chwili osiągnięcia przez dziecko pełnoletności",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Bieg przedawnienia co do roszczeń, które przysługują osobom nie mających pełnej zdolności do czynności prawnych przeciwko osobom sprawującym opiekę kuratelę:",
+      "correct_answer": "Nie rozpoczyna się, a rozpoczęty ulega zawieszeniu, przez czas sprawowania przez te osoby opieki lub kurateli",
+      "incorrect_answers": [
+        "Nie rozpoczyna się, a rozpoczęty ulega zawieszeniu do dnia zakończenia przez te osoby opieki lub kurateli",
+        "Ulega zawieszeniu do dnia zakończenia przez te osoby opieki lub kurateli",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Bieg przedawnienia co do roszczeń, które przysługują jednemu z małżonków przeciwko drugiemu:",
+      "correct_answer": "Nie rozpoczynaj się, a rozpoczęty ulega zawieszeniu, przez czas trwania małżeństwa",
+      "incorrect_answers": [
+        "Nie rozpoczyna się, a rozpoczęty ulega zawieszeniu do dnia ustania małżeństwa",
+        "Nie rozpoczyna się a rozpoczęty ulega zawieszeniu do dnia następującego po dniu ustania małżeństwa",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Bieg przedawnienia do wszelkich roszczeń, gdy z powodu siły wyższej uprawniony nie może ich dochodzić przed sądem lub innym organem powołanym do rozpoznawania spraw danego rodzaju:",
+      "correct_answer": "Nie rozpoczyna się, a rozpoczęty ulega zawieszeniu, przez czas trwania przeszkody",
+      "incorrect_answers": [
+        "Ulega zawieszeniu do dnia usunięcia przeszkody",
+        "Nie rozpoczyna się, a rozpoczęty ulega zawieszeniu do dnia usunięcia przeszkody",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Jeżeli rozpoczął się bieg przedawnienia, siła Wyższa, której działanie uniemożliwia uprawnionemu dochodzenie przed sądem wymagalnego roszczenia:",
+      "correct_answer": "Powoduje zawieszenie biegu przedawnienia",
+      "incorrect_answers": [
+        "Powoduje przerwanie biegu przedawnienia",
+        "Nie powoduje zawieszenia ani przerwania biegu przedawnienia",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Przedawnienie względem osoby, która nie ma pełnej zdolności do czynności prawnych, nie może skończyć się wcześniej niż z upływem:",
+      "correct_answer": "2 lat od ustanowienia dla niej przedstawiciela ustawowego albo od ustania przyczyny jego ustanowienia",
+      "incorrect_answers": [
+        "3 lat od ustanowienia dla niej przedstawiciela ustawowego albo od ustania przyczyny jego ustanowienia",
+        "roku od ustanowienia dla niej przedstawiciela ustawowego albo od ustania przyczyny jego ustanowienia",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Przedawnienie względem osoby, która nie ma pełnej zdolności do czynności prawnych, nie może skończyć się wcześniej niż z upływem lat dwóch od ustanowienia dla niej przedstawiciela ustawowego albo od ustania przyczyny jego ustanowienia. Jeżeli termin przedawnienia jest krótszy niż dwa lata, jego bieg liczy się:",
+      "correct_answer": "Od dnia ustanowienia przedstawiciela ustawowego albo od dnia, w którym ustała przyczyna jego ustanowienia",
+      "incorrect_answers": [
+        "z upływem 6 miesięcy od ustanowienia przedstawiciela ustawowego albo od dnia, w którym ustała przyczyna jego ustanowienia",
+        "z upływem roku od ustanowienia przedstawiciela ustawowego albo od dnia, w którym ustała przyczyna jego ustanowienia",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Przez czynność przed sądem lub innym organem powołanym do rozpoznawania spraw lub egzekwowanie roszczeń danego rodzaju albo przed sądem polubownym, przedsięwziętą bezpośrednio w celu dochodzenia lub ustalenia albo zaspokojenia lub zabezpieczenia roszczenia bieg przedawnienia:",
+      "correct_answer": "przerywa się",
+      "incorrect_answers": [
+        "ulega zawieszeniu",
+        "trwa nadal",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Dłużnik zwrócił się do wierzyciela przed upływem terminu przedawnienia roszczenia o rozłożenie długu na raty i o umorzenie odsetek za opóźnienie. Wierzyciel nie wyraził na to zgody. Z punktu widzenia biegu terminu przedawnienia roszczenia:",
+      "correct_answer": "doszło do przerwania biegu terminu",
+      "incorrect_answers": [
+        "doszło do zawieszenia biegu terminu",
+        "prośba dłużnika nie miała żadnego wpływu na bieg terminu",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Przez uznanie roszczenia przez osobę, przeciwko której roszczenie przysługuje, bieg przedawnienia:",
+      "correct_answer": "przerywa się",
+      "incorrect_answers": [
+        "ulega zawieszeniu",
+        "trwa nadal",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Przez wszczęcie mediacji bieg przedawnienia:",
+      "correct_answer": "przerywa się",
+      "incorrect_answers": [
+        "ulega zawieszeniu",
+        "trwa nadal",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Po każdym przerwaniu przedawnienia:",
+      "correct_answer": "biegnie ono na nowo",
+      "incorrect_answers": [
+        "biegnie ono od momentu, w którym zostało przerwane",
+        "biegnie ono od momentu, w którym zostało przerwane, chyba że ustawa lub umowa stanowi inaczej",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "W razie przerwania przedawnienia przez czynność w postępowaniu przed sądem lub innym organem powołanym do rozpoznawania spraw lub egzekwowania roszczeń danego rodzaju albo przed sądem polubownym albo przez wszczęcie mediacji, Przedawnienie:",
+      "correct_answer": "nie biegnie na nowo, dopóki Postępowanie to nie zostanie zakończone",
+      "incorrect_answers": [
+        "biegnie na nowo",
+        "biegnie nadal",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Roszczernie stwierdzone prawomocnym orzeczeniem sądu lub innego organu powołanego do rozpoznawania spraw danego rodzaju albo orzeczeniem sądu Polubownego, jak również roszczenie stwierdzone ugodą zawarta przed sądem albo przed sądem polubownym albo ugodą zawarta przed mediatorem i zatwierdzoną przez sąd, przedawnia się z upływem:",
+      "correct_answer": "lat 10, chociażby termin przedawnienia roszczeń tego rodzaju był krótszy",
+      "incorrect_answers": [
+        "lat 10, chyba że termin przedawnienia roszczeń tego rodzaju był krótszy",
+        "lat 3, chociażby termin przedawnienia roszczeń tego rodzaju był krótszy",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Roszczenie stwierdzone prawomocnym orzeczeniem sądu lub innego organu powołanego do rozpoznawania spraw danego rodzaju albo orzeczeniem sądu Polubownego, jak również roszczenie stwierdzone ugodą zawartą przed sądem albo przed sądem polubownym albo ugoda zawarta przed mediatorem i zatwierdzona przez sąd, przedawnia się z upływem lat 10, chociażby termin przedawnienia roszczeń tego rodzaju był krótszy. Jeżeli stwierdzone w ten sposób roszczenie obejmuje świadczenia okresowe, roszczenie o oświadczenie okresowe należne w przyszłości ulega przedawnieniu",
+      "correct_answer": "trzyletniemu",
+      "incorrect_answers": [
+        "w tym samym wymiarze",
+        "po upływie lat 5",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Właściciel może, z wyłączeniem innych osób, korzystać rzeczy w szczególności może pobierać pożytki i inne dochody z rzeczy oraz rozporządzać nią:",
+      "correct_answer": "w granicach określonych przez ustawy i zasady współżycia społecznego i zgodnie ze społeczno gospodarczym przeznaczeniem swego prawa",
+      "incorrect_answers": [
+        "bez ograniczeń",
+        "w granicach określonych przez ustawy i zasady współżycia społecznego",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Właściciel nie może się sprzeciwić użyciu, a nawet uszkodzenie lub zniszczenie rzeczy przez inną osobę, jeżeli to jest konieczne do:",
+      "correct_answer": "odwrócenia niebezpieczeństwa grożącego bezpośrednio dobrom osobistym tej osoby lub osoby trzeciej. Może jednak żądać naprawienia wynikłej stąd szkody",
+      "incorrect_answers": [
+        "skutecznej obrony koniecznej. Może jednak żądać naprawienia wynikłej stąd szkody",
+        "odwrócenia niebezpieczeństwa grożącego bezpośrednio dobrom osobistym tej osoby lub osoby trzeciej. W takim wypadku właściciel nie może żądać naprawienia wynikłej stąd szkody",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Właściciel nie może się sprzeciwić użyciu, a nawet uszkodzeniu lub zniszczeniu rzeczy przez inną osobę, jeżeli jest to konieczne do odwrócenia niebezpieczeństwa grożącego bezpośrednio dobrom osobistym tej osoby lub osoby trzeciej. Może jednak żądać naprawienia wynikłej stąd szkody. Przepis powyższy stosuje się także w razie niebezpieczeństwa grożącego dobrom majątkowym chyba że:",
+      "correct_answer": "grożąca szkoda jest oczywiście i niewspółmiernie mniejsza aniżeli uszczerbek, który mógłby ponieść właściciel wskutek użycia, uszkodzenia lub zniszczenia rzeczy",
+      "incorrect_answers": [
+        "grożąca szkoda jest mniejsza aniżeli uszczerbek, który mógłby ponieść właściciel wskutek użycia, uszkodzenia lub zniszczenia rzeczy",
+        "grożąca szkoda przewyższa uszczerbek, który mógłby ponieść właściciel wskutek użycia, uszkodzenia lub zniszczenia rzeczy",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Własność gruntu rozciąga się na przestrzeń nad i pod jego powierzchnią:",
+      "correct_answer": "w granicach określonych przez społeczno gospodarcze przeznaczenie gruntu",
+      "incorrect_answers": [
+        "bez ograniczeń",
+        "w granicach określonych przez społeczno gospodarcze przeznaczenie gruntu oraz zasady współżycia społecznego",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Właściciel nieruchomości powinien przy wykonywaniu swego prawa powstrzymać się od działań, które by zakłócały korzystanie z nieruchomości sąsiednich",
+      "correct_answer": "ponad przeciętna miarę, wynikającą ze społeczno gospodarczego przeznaczenia nieruchomości i stosunków miejscowych",
+      "incorrect_answers": [
+        "ponad przeciętną miarę wynikającą z zasad współżycia społecznego",
+        "ponad przeciętną miarę, wynikającą ze społeczno gospodarczego przeznaczenia nieruchomości oraz zasad współżycia społecznego",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Właściciel może żądać od właścicieli gruntów sąsiednich ustanowienia za wynagrodzeniem potrzebnej służebności drogowej, droga konieczna, jeżeli:",
+      "correct_answer": "nieruchomość nie ma odpowiedniego dostępu do drogi publicznej lub do należących do tej nieruchomości budynków gospodarskich",
+      "incorrect_answers": [
+        "nieruchomość nie ma dobrego dostępu do drogi publicznej lub należących do tej nieruchomości budynków gospodarskich",
+        "nieruchomość nie ma dostatecznego dostępu do drogi publicznej lub do należących do tej nieruchomości budynków gospodarskich",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Przeprowadzenie drogi koniecznej nastąpi z uwzględnieniem:",
+      "correct_answer": "potrzeb nieruchomości nie mającej dostępu do drogi publicznej oraz z najmniejszym obciążeniem gruntów, przez które droga prowadzi, powinno też uwzględniać interes społeczno gospodarczy",
+      "incorrect_answers": [
+        "interesu właściciela tej nieruchomości nie mającej dostępu do drogi publicznej oraz z najmniejszym obciążeniem gruntów, przez które droga ma prowadzić, z uwzględnieniem interesu społeczno gospodarczego",
+        "interesu właściciela nieruchomości nie mającej dostępu do drogi publicznej i osób trzecich oraz z jak najmniejszym obciążeniem gruntów, przez które droga ma prowadzić",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Ustanowienie drogi koniecznej w stosunku do samoistnego posiadacza nieruchomości jest:",
+      "correct_answer": "możliwe jednakże posiadać może żądać tylko ustanowienia służebości osobistej",
+      "incorrect_answers": [
+        "niemożliwe",
+        "możliwe, bez ograniczeń",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Właściciel nieruchomości może dokonywać robót ziemnych na należącej do niego nieruchomości:",
+      "correct_answer": "Tylko w taki sposób, żeby to to nie groziło nieruchomościom sąsiednim utratą oparcia",
+      "incorrect_answers": [
+        "bez ograniczeń",
+        "tylko w taki sposób, aby nie naruszać zasady współżycia społecznego",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Umowa sprzedaży, zamiany, darowizny lub inna umowa zobowiązująca do przeniesienia własności rzeczy co do tożsamości oznaczonej:",
+      "correct_answer": "przenosi własność na nabywcę, chyba że przepis szczególny stanowi inaczej albo że strony postanowiły inaczej",
+      "incorrect_answers": [
+        "przenosi własość na nabywcę",
+        "przenosi własność na nabywcę, chyba że przepis szczególny stanowi inaczej",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Jeżeli przedmiotem umowy zobowiązującej do przeniesienia własności są rzeczy oznaczone tylko co do gatunku, do przeniesienia własności potrzebny jest:",
+      "correct_answer": "przeniesienie posiadania rzeczy",
+      "incorrect_answers": [
+        "przekazania rzeczy",
+        "złożenie oświadczenia woli",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Jeżeli przedmiotem umowy zobowiązującej do przeniesienia własności są rzeczy oznaczone tylko co do gatunku, do przeniesienia własności potrzebne jest przeniesienie posiadania rzeczy. W wypadku gdy przedmiotem umowy zobowiązującej do przeniesienia własności są rzeczy przyszłe, do przeniesienia własności potrzebne jest:",
+      "correct_answer": "przeniesienie posiadania rzeczy",
+      "incorrect_answers": [
+        "przekazanie rzeczy",
+        "złożenie oświadczenia woli",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Jeżeli zawarcie umowy przenoszącej własność następuje w wykonaniu zobowiązania wynikającego z uprzednio zawartej umowy zobowiązującej do przeniesienia własności, z zapisu, z bezpodstawnego wzbogacenia się lub innego zdarzenia, ważność umowy przenoszącej własność zależy od:",
+      "correct_answer": "istnienia tego zobowiązania",
+      "incorrect_answers": [
+        "jej potwierdzenia przez strony",
+        "zachowania formy pisemnej",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Przeniesienie własności nieruchomości pod warunkiem albo zastrzeżeniem terminu jest:",
+      "correct_answer": "niemożliwe. Jeżeli umowa zobowiązująca do przeniesienia własności nieruchomości została zawarta pod warunkiem lub z zastrzeżeniem terminu, do przeniesienia własności potrzebne jest dodatkowe porozumienie stron obejmujące ich bezwarunkową zgodę na niezwłoczne przejście własności.",
+      "incorrect_answers": [
+        "możliwe",
+        "niemożliwe. Jeżeli umowa zobowiązująca do przeniesienia własności nieruchomości została zawarta pod warunkiem lub z zastrzeżeniem terminu jest ona nieważna",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Umowa zobowiązująca do przeniesienia własności nieruchomości powinna być zawarta w formie aktu notarialnego. Umowa przenoszącą własność, która zostaje zawarta w celu wykonania istniejącego uprzednio zobowiązania do przeniesienia własności nieruchomości, powinna być zawarta w formie:",
+      "correct_answer": "aktu notarialnego",
+      "incorrect_answers": [
+        "pisemnej pod rygorem nieważności",
+        "pisemnej dla celów dowodowych",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Posiadacz nieruchomości nie będącący właścicielem nabywa własność przez zasiedzenie, jeżeli posiada nieruchomość nieprzerwanie jako posiadacz samoistny od lat:",
+      "correct_answer": "20, chyba że uzyskał posiadanie w złej wierze",
+      "incorrect_answers": [
+        "10, chyba że uzyskał posiadanie w złej wierze",
+        "30, chyba że uzyskał posiadanie w złej wierze",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Jedną z ustawowych przesłanek zasiedzenia części nieruchomości gruntowej, należącej do współwłaściciela jest istnieniem wystarczająco długiego okresu:",
+      "correct_answer": "posiadania samoistnego",
+      "incorrect_answers": [
+        "posiadania samodzielnego",
+        "posiadania zależnego",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "NPosiadacz nieruchomości nie będący właścicielem nabywa własność przez zasiedzenie, jeżeli posiada nieruchomości nieprzerwanie jako posiadacz samoistny od lat:",
+      "correct_answer": "30, nawet jeśli uzyskał posiadanie w złej wierze",
+      "incorrect_answers": [
+        "10",
+        "20",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Zasiedzenie własności nieruchomości objętej w posiadanie przez samoistnego posiadacza w złej wierze po 1 października 1990 r.:",
+      "correct_answer": "nastąpi po 30 latach",
+      "incorrect_answers": [
+        "nigdy nie nastąpi",
+        "nastąpi po 20 latach",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Jeśli właściciel nieruchomości, przeciwko któremu biegnie zasiedzenie, jest małoletni, zasiedzenie nie może skończyć się wcześniej niż z upływem:",
+      "correct_answer": "2 lat od uzyskania pełnoletności właściciela",
+      "incorrect_answers": [
+        "roku od uzyskania pełnoletności właściciela",
+        "6 miesięcy od dnia uzyskania pełnoletności przez właściciela",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Posiadacz rzeczy ruchomej nie będący jej właścicielem nabywa własność, jeżeli posiada rzecz jako posiadacz samoistny:",
+      "correct_answer": "nieprzerwanie od lat trzech, chyba że posiada dzwoń wierze",
+      "incorrect_answers": [
+        "nieprzerwanie od lat 3",
+        "od lat 3",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Do biegu zasiedzenie stosuje się odpowiednio przepisy o:",
+      "correct_answer": "biegu przedawnienia roszczeń",
+      "incorrect_answers": [
+        "warunku zawieszającym",
+        "biegu terminu",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Domniemywa się, że udziały współwłaścicieli są:",
+      "correct_answer": "równe",
+      "incorrect_answers": [
+        "warte tyle samo",
+        "tej samej wielkości",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Do rozporządzania rzeczą wspólną potrzebna jest Zgoda:",
+      "correct_answer": "wszystkich współwłaścicieli",
+      "incorrect_answers": [
+        "zwykłej większości współwłaścicieli",
+        "kwalifikowanej większości współwłaścicieli",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+      {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Każdy ze współwłaścicieli może rozporządzać swoim udziałem bez zgody pozostałych współwłaścicieli. Do rozporządzania rzeczą wspólną oraz do innych czynności, które przekraczają zakres zwykłego zarządu, potrzebna jest Zgoda wszystkich współwłaścicieli. W braku takiej zgody wwspółwłaściciele mogą żądać rozstrzygnięcia przez sąd, który orzeknie, mając na względzie cel zamierzonej czynności oraz interesy wszystkich współwłaścicieli, o ile ich udziały wynoszą co najmniej:",
+      "correct_answer": "połowę",
+      "incorrect_answers": [
+        "1/4",
+        "1/3",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+	     {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Jeżeli brak jest zgody współwłaścicieli na dokonywanie czynności zwykłego zarządu rzeczą wspólną, sąd może upoważnić do dokonania takiej czynności:",
+      "correct_answer": "Na żądanie każdego ze współwłaścicieli",
+      "incorrect_answers": [
+        "Tylko na żądanie współwłaścicieli, których udziały wynoszą co najmniej 1/3",
+        "Tylko na żądanie współwłaścicieli, których udziały wynoszą co najmniej połowę",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+	     {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Każdy ze współwłaścicieli jest obowiązany do współdziałania w zarządzie rzeczą wspólną. Do czynności zwykłego zarządu rzeczą wspólną potrzebna jest Zgoda:",
+      "correct_answer": "Większości współwłaścicieli. W braku takiej zgody każdy ze współwłaścicieli może żądać upoważnienia sądowego do dokonania czynności",
+      "incorrect_answers": [
+        "wszystkich współwłaścicieli. W braku takiej zgody każdy ze współwłaścicieli może żądać upoważnienia sądowego do dokonania czynności",
+        "wszystkich współwłaścicieli. W braku takiej zgody każdy ze współwłaścicieli może żądać wydania sądowego nakazu dokonania czynności",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+	     {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Roszczenie windykacyjne może zostać uwzględnione:",
+      "correct_answer": "Gdy naruszenie własności polega na pozbawieniu właściciela faktycznego władztwa nad rzeczą",
+      "incorrect_answers": [
+        "gdy naruszenie własności polega na ograniczeniu właścicielowi faktycznego władztwa nad rzeczą",
+        "gdy dokonano naruszenia własności w sposób utrudniający korzystanie z rzeczy",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+	     {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Właściciel może żądać od osoby, która włada faktycznie jego rzeczą, aby rzecz została mu wydana, chyba że:",
+      "correct_answer": "Osobie tej przysługuje skuteczne względem właściciela uprawnienie do władania rzeczą",
+      "incorrect_answers": [
+        "osobie tej przysługuje uprawnienie do władania rzeczą",
+        "osobie tej przysługuje skuteczne względem właściciela uprawnienie do władania rzeczą, lub osoba ta działając w dobrej wierze, weszła we władanie rzeczy",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+	     {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Przeciwko osobie, która narusza własność w inny sposób aniżeli przez pozbawienie właściciela faktycznego władztwa nad rzeczą, przysługuje właścicielowi roszczenie o:",
+      "correct_answer": "przywrócenie stanu zgodnego z prawem i o zaniechanie naruszeń",
+      "incorrect_answers": [
+        "przywrócenie stanu zgodnego z prawem",
+        "zaniechanie naruszeń",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    },
+	     {
+      "category": "Prawo Cywilne",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Roszczenie właściciela z tytułu naruszenia jego prawa własności w inny sposób aniżeli przez pozbawienie właściciela faktycznego władztwa nad rzeczą:",
+      "correct_answer": "nie ulegają przedawnieniu, jeżeli dotyczą nieruchomości",
+      "incorrect_answers": [
+        "nie ulegają przedawnieniu",
+        "nie ulegają przedawnieniu, jeżeli nie dotyczą nieruchomości",
+        "żadna odpowiedź nie jest poprawna"
+      ]
+    }
+  ]
+ }
