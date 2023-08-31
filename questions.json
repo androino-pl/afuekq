@@ -2,1433 +2,987 @@
   "response_code": 0,
   "results": [
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Odrębną nieruchomością jest",
-      "correct_answer": "budynek wzniesiony przez użytkownika wieczystego na gruncie oddanym przez gminę do użytkowania wieczystego",
+      "question": "W sytuacji, kiedy przedsiębiorstwo może wybierać spośród kilku wariantów działania koszt utraconych korzyści stanowi",
+      "correct_answer": "marżę brutto najbardziej zyskownego spośród alternatywnych przedsięwzięć utraconą w wyniku wyboru jednej możliwości działania",
       "incorrect_answers": [
-        "drzewo zasadzone na gruncie",
-        "dom jednorodzinny postawiony na gruncie"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Nie mają zdolności do czynności prawnych",
-      "correct_answer": "osoby, które nie ukończyły 13 lat oraz osoby ubezwłasnowolnione całkowicie",
-      "incorrect_answers": [
-        "osoby, które nie ukończyły 18 lat oraz osoby ubezwłasnowolnione całkowicie",
-        "osoby, które nie ukończyły 18 lat lub nie zawarły związku małżeńskiego oraz osoby ubezwłasnowolnione całkowicie"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Jednostka organizacyjna uzyskuje osobowość prawną z chwilą",
-      "correct_answer": "jej wpisu do właściwego rejestru, chyba że przepisy szczególne stanowią inaczej",
-      "incorrect_answers": [
-        "uchwalenia statutu",
-        "ukonstytuowania jej władz"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Jeżeli oferent nie oznaczył w ofercie terminu, w ciągu którego oczekiwać będzie odpowiedzi, oferta złożona w obecności drugiej strony przestaje wiązać, gdy",
-      "correct_answer": "nie zostanie przyjęta niezwłocznie",
-      "incorrect_answers": [
-        "z upływem czasu, w którym składający ofertę mógł w zwykłym toku czynności otrzymać odpowiedź wysłaną bez nieuzasadnionego opóźnienia",
-        "nie zostanie przyjęta tego samego dnia"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Zgodnie z Kodeksem cywilnym, jeżeli rzecz sprzedana ma zostać przesłana przez sprzedawcę kupującemu będącemu konsumentem, niebezpieczeństwo przypadkowej utraty lub uszkodzenia rzeczy przechodzi na kupującego",
-      "correct_answer": "z chwilą jej wydania kupującemu",
-      "incorrect_answers": [
-        "z chwilą jej wydania przewoźnikowi",
-        "z chwilą jej zbadania przez kupującego"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Rzeczą jest",
-      "correct_answer": "nieruchomość",
-      "incorrect_answers": [
-        "dobro osobiste",
-        "prawa autorskie"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Zasada współżycia społecznego oznacza",
-      "correct_answer": "ogół norm moralnych i etycznych",
-      "incorrect_answers": [
-        "coś tam",
-        "coś tam"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Postanowienia przedmiotowo istotne",
-      "correct_answer": "wskazujące bezpośrednio na typ zawieranej czynności",
-      "incorrect_answers": [
-        "warunek",
-        "termin"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Jak coś pójdzie nie tak w czyimś przedsiębiorstwie to odpowiada na zasadzie",
-      "correct_answer": "ryzyka",
-      "incorrect_answers": [
-        "winy",
-        "termin"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Świadczenie",
-      "correct_answer": "oznacza zachowanie się dłużnika zgodne z treścią zobowiązania i zmierzające do zaspokojenia interesu wierzyciela",
-      "incorrect_answers": [
-        "to obowiązek lub zespół obowiązków dłużnika mających na celu zaspokojenie interesu wierzyciela",
-        "coś tam."
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Cesja (przelew wierzytelności) to",
-      "correct_answer": "przeniesienie wierzytelności z wierzyciela na nabywcę, która jest osobą trzecią na skutek umowy",
-      "incorrect_answers": [
-        "coś tam",
-        "coś tam"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Zaznacz zdanie fałszywe",
-      "correct_answer": "ofertę z zastrzeżeniami nie można traktować jak nową ofertę",
-      "incorrect_answers": [
-        "oświadczenie woli należy tak tłumaczyć, jak tego wymagają ze względu na okoliczności, w których złożone zostało, zasady współżycia społecznego oraz ustalone zwyczaje",
-        "W umowach należy raczej badać, jaki był zgodny zamiar stron i cel umowy, aniżeli opierać się na jej dosłownym brzmieniu"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Umowa kauzalna",
-      "correct_answer": "ważność zależy od ważności przyczyny (causa)",
-      "incorrect_answers": [
-        "coś tam",
-        "coś tam"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Zaznacz zdanie prawdziwe",
-      "correct_answer": "do zachowania dokumentowej formy czynności prawnej wystarcza złożenie oświadczenia woli w postaci dokumentu, w sposób umożliwiający ustalenie osoby składającej oświadczenie. Dokumentem jest nośnik informacji umożliwiający zapoznanie się z jej treścią",
-      "incorrect_answers": [
-        "do zachowania pisemnej formy czynności prawnej nie wystarcza złożenie własnoręcznego podpisu na dokumencie obejmującym treść oświadczenia woli",
-        "do zachowania elektronicznej formy czynności prawnej wystarcza złożenie oświadczenia woli w postaci elektronicznej"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Pochodne nabycie",
-      "correct_answer": "nabywca wraz z nieruchomością nabywa też obowiązki i prawa z nią związane",
-      "incorrect_answers": [
-        "coś tam,",
-        "nabywca nabywa samą nieruchomość"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Oświadczenie jest nieważne z powodu wady",
-      "correct_answer": "pozorności",
-      "incorrect_answers": [
-        "postępu",
-        "błędu"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Przedawnienie ulega przerwaniu, gdy",
-      "correct_answer": "przez uznanie roszczenia przez osobę, przeciwko której roszczenie przysługuje",
-      "incorrect_answers": [
-        "co do roszczeń, które przysługują dzieciom przeciwko rodzicom -przez czas trwania władzy rodzicielskiej",
-        "co do roszczeń, które przysługują jednemu z małżonków przeciwko drugiemu przez czas trwania małżeństwa"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Zaznacz fałszywe",
-      "correct_answer": "obrona nie wyłącza bezprawności",
-      "incorrect_answers": [
-        "coś tam",
-        "coś tam"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Szkoda niemajątkowa to",
-      "correct_answer": "cierpienie fizyczne i psychiczne",
-      "incorrect_answers": [
-        "coś tam",
-        "coś tam"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Formę prawną uzyskuje się",
-      "correct_answer": "w momencie wpisu do odpowiedniego rejestru",
-      "incorrect_answers": [
-        "coś tam",
-        "coś tam"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Gdy umowa nie ma rygoru nieważności w sprawie formy pisemnej - jakie będą skutki gdy nie zostanie zawarta w tej formie",
-      "correct_answer": "będą problemy w sądzie - nie będzie dowodów",
-      "incorrect_answers": [
-        "to oznacza, że umowa jest nieważna",
-        "coś tam"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Hipoteka",
-      "correct_answer": "to zabezpieczenie na nieruchomości wierzytelności pieniężnej",
-      "incorrect_answers": [
-        "coś tam",
-        "coś tam"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Prokura to",
-      "correct_answer": "pełnomocnictwo do spraw sądowych i pozasądowych w sprawach kierowania przedsiębiorstwem",
-      "incorrect_answers": [
-        "pełnomocnictwo do zbycia przedsiębiorstwa",
-        "coś tam"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Posiadanie to",
-      "correct_answer": "stan faktyczny",
-      "incorrect_answers": [
-        "coś tam",
-        "coś tam"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Zaznacz prawdziwe",
-      "correct_answer": "po przedawnieniu już nie można dochodzić wierzytelności...",
-      "incorrect_answers": [
-        "przedawnienie trwa 10 lat...",
-        "przedawnienie dotyczy rzeczy materialnych i niematerialnych..."
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Proste pytanie o zdolności prawnej/do czynności prawnej",
-      "correct_answer": "coś tam",
-      "incorrect_answers": [
-        "coś tam",
-        "coś tam"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Umową nie jest",
-      "correct_answer": "konfuzja",
-      "incorrect_answers": [
-        "zwolnienie z długu",
-        "odnowienie"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Odpowiedzialność dłużnika za osoby trzecie, za których pomocą dłużnik zobowiązanie wykonywa lub którym wykonanie zobowiązania powierza ukształtowana jest na zasadzie",
-      "correct_answer": "ryzyka.",
-      "incorrect_answers": [
-        "winy lub ryzyka",
-        "ryzyka i słuszności"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Budynki są",
-      "correct_answer": "nieruchomością, jeśli na mocy przepisów szczególnych stanowią odrębny przedmiot własności",
-      "incorrect_answers": [
-        "zawsze nieruchomością",
-        "zawsze częścią składową nieruchomości gruntowej"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Umowa przedwstępna przeniesienia własności nieruchomości",
-      "correct_answer": "musi określać istotne postanowienia umowy przyrzeczonej",
-      "incorrect_answers": [
-        "musi zostać zawarta w formie aktu notarialnego",
-        "podmiot uprawniony z umowy przyrzeczonej przed sądem w wypadku gdy strona zobowiązana do zawarcia umowy przyrzeczonej uchyla się od jej zawarcia"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "A zobowiązał się pierwotnie na świadczenia B młodej krowy. Następnie A za zgodą B w celu zwolnienia się z tego zobowiązania (krowa padła) przenosi na B własność konia. Podany przykład to",
-      "correct_answer": "świadczenie w miejsce wykonania ",
-      "incorrect_answers": [
-        "konfuzja",
-        "odnowienie"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Umową rezultatu nie jest",
-      "correct_answer": "umowa zlecenie",
-      "incorrect_answers": [
-        "umowa o dzieło",
-        "umowa przewozu"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Zaznacz zdanie prawdziwe",
-      "correct_answer": "hipoteka może być umowna",
-      "incorrect_answers": [
-        "zastaw jest ograniczonym prawem rzeczowym na rzeczy ruchomej albo na niezbywalnym prawie",
-        "zastawca ma możność zaspokojenia swej wierzytelności z zastawionej rzeczy i to z pierwszeństwem przed ewentualnymi wierzycielami osobistymi zastawnika"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Podczas jazdy samochodem A zgodził się podwieźć przygodne napotkaną autostopowiczkę B. B miała zapłacić za podróż 20 złotych. Ponieważ B bardzo spodobała się A, ten postanowił na prostym odcinku drogi popisać się swoimi umiejętnościami. W rezultacie popisów samochód roztrzaskał się na drzewie, a B doznała licznych złamań klatki piersiowej. Prawdą jest, że",
-      "correct_answer": "A ponosi wobec B odpowiedzialność na zasadzie winy",
-      "incorrect_answers": [
-        "A ponosi wobec B odpowiedzialność na zasadzie ryzyka, ponieważ jest samoistnym posiadaczem mechanicznego środka komunikacji poruszanego za pomocą sił przyrody",
-        "ponieważ był to przewóz z grzeczności A nie ponosi w ogóle odpowiedzialności deliktowej wobec B"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Kto przechowuje czyjąś rzecz przez pewien okres czasu jest",
-      "correct_answer": "posiadaczem zależnym rzeczy",
-      "incorrect_answers": [
-        "posiadaczem samoistnym rzeczy",
-        "dzierżycielem rzeczy"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Ograniczenie pełnomocnika w zdolności do czynności prawnych",
-      "correct_answer": "nie wpływa na ważność czynności dokonanej przez pełnomocnika w imieniu mocodawcy",
-      "incorrect_answers": [
-        "uniemożliwia udzielenie pełnomocnictwa takiej osobie",
-        "wpływa na ważność czynności prawnych, o ile druga strona umowy zawartej w imieniu mocodawcy przez pełnomocnika wie o tym"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Zaznacz zdanie prawdziwe",
-      "correct_answer": "prawo polskie przyjmuje zasadę pełnego odszkodowania",
-      "incorrect_answers": [
-        "poszkodowany czynem niedozwolonym zawsze może domagać się naprawienia szkody przez przywrócenie do stanu poprzedniego",
-        "gdy skutkiem wyrządzenia szkody poszkodowany staje się biedniejszy niż był  dotychczas mówimy o utraconych korzyściach"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Zaznacz zdanie prawdziwe",
-      "correct_answer": "nabywca samochodu kupionego od złodzieja może czasem nabyć jego własność",
-      "incorrect_answers": [
-        "złodziej parasola nabędzie jego własność w drodze zasiedzenia po upływie 10 lat",
-        "ograniczone prawo rzeczowe nie może być przeniesione pod warunkiem lub z zastrzeżeniem terminu"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Uchylenie się od skutków prawnych oświadczenia woli, które zostało złożone innej osobie pod wpływem błędu następuje przez",
-      "correct_answer": "oświadczenie złożone tej osobie na piśmie",
-      "incorrect_answers": [
-        "oświadczenie złożone tej osobie w formie aktu notarialnego",
-        "oświadczenie złożone tej osobie w formie ustnej"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Zgodnie z kodeksem cywilnym, dla osoby ubezwłasnowolnionej częściowo ustanawia się",
-      "correct_answer": "kuratelę",
-      "incorrect_answers": [
-        "opiekę",
-        "kuratelę, chyba że stan zdrowia tej osoby wymaga ustanowienia opieki"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Piotr N zawarł bez umocowania w imieniu Łukasza Z umowę sprzedaży cennego obrazu. W tym stanie faktycznym",
-      "correct_answer": "ważność umowy zależy od jej potwierdzenia przez osobę, w której imieniu umowa została zawarta (Łukasza Z.).",
-      "incorrect_answers": [
-        "umowa jest ważna pod warunkiem, że druga strona o braku umocowania wiedziała lub z łatwością mogła się dowiedzieć",
-        "umowa jest bezwzględnie nieważna"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Zgodnie z kodeksem cywilnym, jeżeli dłużnik zaspokoił dobrowolnie przedawnione roszczenie ",
-      "correct_answer": "nie może żądać zwrotu świadczenia",
-      "incorrect_answers": [
-        "może żądać zwrotu świadczenia, jeżeli spełniając je nie wiedział, że roszczenie jest przedawnione",
-        "może żądać zwrotu świadczenia według zasad dotyczących roszczeń z tytułu bezpodstawnego wzbogacenia"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Nieważność bezwzględną czynności prawnej powoduje",
-      "correct_answer": "pozorność",
-      "incorrect_answers": [
-        "błąd,  (nieważność względna)",
-        "groźba. (nieważność względna)"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Zgodnie z kodeksem cywilnym, jeżeli strony prowadzą negocjacje w celu zawarcia umowy, umowa zostaje zawarta, gdy strony dojdą do porozumienia co do",
-      "correct_answer": "wszystkich postanowień, które były przedmiotem negocjacji,",
-      "incorrect_answers": [
-        "istotnych postanowień umowy",
-        "formy i najważniejszych postanowień umowy"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Koło zapasowe",
-      "correct_answer": "stanowi przynależność samochodu",
-      "incorrect_answers": [
-        "stanowi część składową samochodu",
-        "nigdy nie może być zbyte bez zbycia samochodu"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Osobę, która w sposób mechaniczny przenosi cudze oświadczenie woli nazywamy",
-      "correct_answer": " posłańcem",
-      "incorrect_answers": [
-        "prokurentem",
-        "przedstawicielem"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Skarb Państwa jest",
-      "correct_answer": "podmiotem praw i obowiązków, które dotyczą mienia państwowego nienależącego do innych państwowych osób prawnych",
-      "incorrect_answers": [
-        "zbiorczym oznaczeniem majątku państwowych osób prawnych",
-        "pojęciem zbiorczym dla wszystkich państwowych osób prawnych"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Jeżeli do ważności czynności prawnej potrzebna jest zgoda osoby trzeciej, a zawarto czynność prawną bez tej zgody, to mamy do czynienia z",
-      "correct_answer": "bezskutecznością zawieszoną",
-      "incorrect_answers": [
-        "bezskutecznością względną",
-        "nieważnością względną"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Odpłatna lub nieodpłatna jest umowa",
-      "correct_answer": "zlecenia",
-      "incorrect_answers": [
-        "najmu",
-        "dzierżawy"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Umowa sprzedaży nieruchomości",
-      "correct_answer": "jest odpłatna",
-      "incorrect_answers": [
-        "może być zawarta w formie pisemnej z notarialnym poświadczeniem podpisu",
-        "przenosi własność nieruchomości na nabywcę zawsze z chwilą zapłacenia ceny"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Zaznacz zdanie prawdziwe",
-      "correct_answer": "wada fizyczna polega na niezgodności rzeczy sprzedanej z umową",
-      "incorrect_answers": [
-        "sprzedawca odpowiada z tytułu rękojmi, jeżeli wada fizyczna zostanie stwierdzona przed upływem roku, a gdy chodzi o wady nieruchomości - przed upływem pięciu lat od dnia wydania rzeczy kupującemu",
-        "kupujący może odstąpić od umowy, jeżeli wada fizyczna jest nieistotna"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Przesłanką odpowiedzialności deliktowej  nie jest",
-      "correct_answer": "winna",
-      "incorrect_answers": [
-        "szkoda",
-        "związek przyczynowy"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "1. Do czynności przekraczających zakres zwykłego zarządu rzeczą wspólną (przy współwłasności w częściach ułamkowych): ",
-      "correct_answer": "potrzebna jest zgoda wszystkich współwłaścicieli",
-      "incorrect_answers": [
-        "potrzebna jest zgoda większości współwłaścicieli (liczona według ich ilości",
-        "potrzebna jest zgoda większości współwłaścicieli (liczona według wielkości ich udziałów)."
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Posiadanie",
-      "correct_answer": "może być samoistne",
-      "incorrect_answers": [
-        "jest zawsze w dobrej wierze",
-        "jest ograniczonym prawem rzeczowym"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Powództwo negatoryjne",
-      "correct_answer": "służy ochronie własności",
-      "incorrect_answers": [
-        "służy ochronie posiadania",
-        "to powództwo o wydanie rzeczy"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Zaznacz zdanie prawdziwe",
-      "correct_answer": "przelew wierzytelności to inaczej cesja",
-      "incorrect_answers": [
-        "wierzyciel zawsze może domagać się osobistego spełnienia świadczenia przez dłużnika",
-        "jeżeli wierzyciel odmawia wydania pokwitowania, dłużnik musi złożyć przedmiot świadczenia do depozytu sądowego"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Odsetki",
-      "correct_answer": "Są świadczeniem ubocznym",
-      "incorrect_answers": [
-        "Są świadczeniem ciągłym",
-        "Należą się tylko w razie zwłoki dłużnika"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Odpowiedzialność za zwierzęta",
-      "correct_answer": "Niekiedy oparta jest na zasadzie słuszności",
-      "incorrect_answers": [
-        "Oparta jest zawsze na zasadzie winy w wyborze,",
-        "Ponosi ją wyłącznie ten, kto zwierzę chowa"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Jeżeli niemożliwość (następcza) świadczenia jest następstwem okoliczności za które dłużnik odpowiedzialności nie ponosi",
-      "correct_answer": "Zobowiązanie wygasa",
-      "incorrect_answers": [
-        "Zobowiązanie przekształca się w tzw. zobowiązanie naturalne",
-        "Dłużnik jest zobowiązany do naprawienia szkody poniesionej przez wierzyciela z tytułu niewykonania lub nienależytego wykonania zobowiązania"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Zaznacz zdanie prawdziwe",
-      "correct_answer": "Zastaw jest ograniczonym prawem rzeczowym na rzeczy ruchomej albo na zbywalnym prawie",
-      "incorrect_answers": [
-        "Hipoteka może zostać ustanowiona jedynie na prawach własności nieruchomości",
-        "Zastawca ma możność zaspokojenia swej wierzytelności zastawionej rzeczy i to z pierwszeństwem przed ewentualnymi wierzycielami osobistymi zastawnika"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "W razie wystąpienia wady oświadczenia woli jaką jest błąd",
-      "correct_answer": "Strona działająca pod wpływem błędu może uchylić się od skutków prawnych złożonego oświadczenia woli",
-      "incorrect_answers": [
-        "Czynność prawna jest bezwzględnie nieważna",
-        "Czynność prawna jest ważna, ale nie wywołuje skutków prawnych do czasu, gdy strona nie dowie się o błędzie"
-      ]
-    },
-    {
-      "category": "Prawo Cywilne",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Do elementów essentialia negotii (postanowienia istotne przedmiotowo) umowy sprzedaży należą",
-      "correct_answer": "Określenie stron umowy, określenie przedmiotów świadczenia, określenie ceny,",
-      "incorrect_answers": [
-        "Określenie miejsca zawarcia umowy, określenie przedmiotu świadczenia, określenie ceny",
+        "sumę przychodów utraconych w wyniku wyboru jednej możliwości działania i braku realizacji wszystkich pozostałych alternatywnych przedsięwzięć",
+        "sumę marży brutto utraconej w wyniku wyboru jednej możliwości działania i braku realizacji wszystkich pozostałych alternatywnych przedsięwzięć",
         "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Zgodnie z ustawą o własności lokali, nieruchomość wspólną (objętą tzw. współwłasnością konieczną wszystkich właścicieli lokali) stanowi",
-      "correct_answer": "Grunt oraz części budynku i urządzenia, które nie służą wyłącznie do użytku właścicieli lokali",
+      "question": "Historycznie jako pierwszy wykształcił się",
+      "correct_answer": "sprawozdawczy rachunek kosztów",
       "incorrect_answers": [
-        "Ogół lokali mieszkalnych w budynku, stanowiących odrębne nieruchomości",
-        "Wyłącznie grunt w obrębie granic budynku stojącego na gruncie"
+        "rachunek kosztów zmiennych",
+        "rachunek kosztów cyklu życia produktu",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Zgodnie z KC, oświadczenie woli złożone przez osobę, która z powodu choroby psychicznej znajdowała się w stanie wyłączającym świadome powzięcie decyzji i wyrażenie woli",
-      "correct_answer": "Jest bezwzględnie nieważne",
+      "question": "W przedsiębiorstwie transportowym świadczącym usługi przewozu osób naliczono amortyzację własnych samochodów wykorzystywanych do realizacji tych usług. Koszty te należy zakwalifikować",
+      "correct_answer": "do kosztów podstawowej działalności operacyjnej, ",
       "incorrect_answers": [
-        "Jest ważne, ale osoba ta może uchylić się od skutków prawnych jego złożenia w terminie jednego roku",
-        "Jest ważne, o ile przedstawiciel takiej osoby potwierdzi je"
+        "do pozostałych kosztów operacyjnych",
+        "do kosztów finansowych",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Zgodnie z KC, ograniczoną zdolność do czynności prawnych ma osoba",
-      "correct_answer": "Małoletnia, która zawarła związek małżeński,",
+      "question": "Koszty związane z likwidacją zbędnych środków trwałych oraz wartości niematerialnych i prawnych należy zaprezentować w rachunku zysków i strat w grupie o nazwie",
+      "correct_answer": "pozostałe koszty operacyjne",
       "incorrect_answers": [
-        "Małoletnia, której małżeństwo unieważniono,",
-        "Pełnoletnia, ubezwłasnowolniona częściowo."
+        "koszty działalności operacyjnej",
+        "straty nadzwyczajne",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "W wypadkach gdy termin spełnienia świadczenia został oznaczony w czynności prawnej, a jednocześnie nie określono w niej na czyją korzyść został zastrzeżony, przyjmuje się, że został on zastrzeżony na korzyść",
-      "correct_answer": "dłużnika",
+      "question": "W przedsiębiorstwie produkcyjnym, w którym prowadzona jest ewidencja kosztów na kontach układu rodzajowego (zespół 4) i kontach układu funkcjonalno-kalkulacyjnego (zespół 5) ustalenie zmiany stanu produktów do wariantu porównawczego rachunku zysków i strat następuje na koncie „Rozliczenie kosztów” i wymaga",
+      "correct_answer": "przeksięgowania na stronę (Dt) konta „Rozliczenie kosztów 490” stanów końcowych z kont: „Koszt wytworzenia sprzedanych produktów”, „Koszty sprzedaży”, „Koszty ogólnego zarządu”",
       "incorrect_answers": [
-        "wierzyciela ",
-        "obu stron"
+        "przeksięgowania na stronę Winien (Dt) konta „Rozliczenie kosztów 490” wszystkich kosztów rodzajowych oraz salda końcowego konta „Koszt wytworzenia sprzedanych produktów”",
+        "przeksięgowania na stronę (Dt) konta „Rozliczenie kosztów 490” jedynie salda konta „Koszt wytworzenia sprzedanych produktów”",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Użytkowanie wieczyste jest prawem",
-      "correct_answer": "Dziedzicznym i przenoszalnym",
+      "question": "W firmie handlowej sporządzającej rachunek zysków i strat w wariancie kalkulacyjnym ( Załącznik nr 1 UoR), koszty funkcjonowania działu kadr powinny być uwzględnione w grupie",
+      "correct_answer": "kosztów ogólnego zarządu",
       "incorrect_answers": [
-        "Podmiotowym względnym",
-        "Bezterminowym"
+        "kosztów sprzedaży",
+        "pozostałych kosztów operacyjnych",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Prawdą jest, że część składowa rzeczy",
-      "correct_answer": "To wszystko, co nie może być od rzeczy odłączone bez uszkodzenia lub istotnej zmiany całości lub przedmiotu odłączonego",
+      "question": "W firmie handlowej sporządzającej wariant porównawczy rachunku zysków i strat (Załącznik nr 1 UoR) minimalny układ rodzajowy kosztów, spełniający wymagania określone w Ustawie o Rachunkowości, obejmuje następujące pozycje rodzajowe kosztów",
+      "correct_answer": "amortyzację, zużycie materiałów i energii, usługi obce, podatki i opłaty, wynagrodzenia, ubezpieczenie społeczne i inne świadczenia, pozostałe koszty według rodzaju",
       "incorrect_answers": [
-        "Może być odrębnym od rzeczy (głównej) przedmiotem własności i innych praw rzeczowych",
-        "To przedmioty połączone z rzeczą tylko do przemijającego użytku"
+        "amortyzację, zużycie materiałów i energii, usługi obce, podatki i opłaty, wynagrodzenia, ubezpieczenie społeczne i inne świadczenia, wartość sprzedanych towarów, pozostałe koszty według rodzaju",
+        "amortyzację, zużycie materiałów i energii, usługi obce, wynagrodzenia",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Rzeczy oznaczone co do tożsamości mogą stanowić przedmiot umowy",
-      "correct_answer": "najmu",
+      "question": "Celem kalkulacji kosztów w sprawozdawczym rachunku kosztów jest",
+      "correct_answer": "umożliwienie wyceny zgodnie z przepisami prawa bilansowego takich składników majątkowych jak wyroby gotowe, produkcja niezakończona, wykonane usługi oraz ustalenie prawidłowej wysokości wyniku z działalności",
       "incorrect_answers": [
-        "pożyczki",
-        "dostawy"
+        "uzyskanie informacji o planowanych kosztach nowych produktów, kosztach niewykorzystanych zasobów i działań, kosztach utraconych korzyści",
+        "określenie rentowności poszczególnych klientów",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Zgodnie z KC, jeżeli zawierający umowę jako pełnomocnik nie miał i nie ma umocowania",
-      "correct_answer": "Ważność umowy zależy od jej potwierdzenia przez osobę, w której imieniu umowa została zawarta",
+      "question": "Przedmiotem kalkulacji kosztów w sprawozdawczym rachunku kosztów są",
+      "correct_answer": "poszczególne rodzaje produktów (takie jak wyroby, usługi, półfabrykaty, produkcja w toku)",
       "incorrect_answers": [
-        "Umowa jest bezwzględnie nieważna",
-        "Umowa jest ważna pod warunkiem, że druga strona o braku umocowania wiedziała lub z łatwością mogła się dowiedzieć"
+        "różne zasoby o charakterze materialnym (takie jak pracownicy, urządzenia, budynki), których koszty są niezbędne do sporządzenia sprawozdania finansowego",
+        "różne rodzaje działalności firmy (takie jak działalność operacyjna, inwestycyjna, finansowa)",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "1. Jaki skutek wywoła niezachowanie formy czynności zastrzeżonej przez ustawę w następujący sposób: „Umowa najmu nieruchomości lub pomieszczenia na czas dłuższy niż rok powinna być zawarta na piśmie. W razie niezachowania tej formy poczytuje się umowę za zawartą na czas nieoznaczony”: ",
-      "correct_answer": "Niewystąpienie pewnych skutków prawnych określonych przez ustawę",
+      "question": "Zaleca się, aby przy rozliczaniu świadczeń wydziałów produkcji pomocniczej, świadczenia wzajemne między takimi wydziałami były rozliczane następująco",
+      "correct_answer": "mogą być pomijane, mogą być rozliczane jedno- lub wielokierunkowo, w zależności od przyjętej przez firmę metody rozliczeń. Przyjęta metoda rozliczeń powinna uwzględniać warunki prowadzenia działalności pomocniczej w danej firmie",
       "incorrect_answers": [
-        "Nieważność czynności prawnej",
-        "Niemożność korzystania z pewnych środków dowodowych"
+        "zawsze pomijane, podobnie jak świadczenia tych wydziałów dla siebie samych",
+        "rozliczane, ale zawsze tylko w jednym kierunku",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Zobowiązanie solidarnie",
-      "correct_answer": "Może powstać z mocy umowy",
+      "question": "Pełny koszt wytworzenia produktu zgodnie z zapisami Ustawy o Rachunkowości obejmuje następujące pozycje kosztów",
+      "correct_answer": "wszystkie koszty pozostające w bezpośrednim związku z danym produktem oraz uzasadnioną część kosztów pośrednio związanych z wytworzeniem tego produktu",
       "incorrect_answers": [
-        "Nie może powstać z mocy ustawy, ",
-        "Powstaje tylko po stronie dłużników (solidarność bierna)"
+        "koszty bezpośrednio związane z wytwarzaniem produktu oraz koszty pośrednio związane ze sprzedażą produktu",
+        "koszty przerobu oraz uzasadnioną część kosztów administracyjnych",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Prokurę w spółce z o.o. ustanawia",
-      "correct_answer": "Zarząd spółki",
+      "question": "Odchylenie z tytułu niewykorzystanych zdolności produkcyjnych",
+      "correct_answer": "może być zarówno odchyleniem korzystnym jak i niekorzystnym",
       "incorrect_answers": [
-        "Wszyscy wspólnicy",
-        "Zarządca komisaryczny"
+        "może dotyczyć zarówno zmiennych jak i stałych pośrednich kosztów produkcyjnych",
+        "może być wyłącznie odchyleniem niekorzystnym",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Prawo własności jest",
-      "correct_answer": "Prawem bezwzględnym",
+      "question": "Jeżeli w jednostkach gospodarczych, których roczne sprawozdanie finansowe podlega obowiązkowi badania przez biegłego rewidenta i obowiązkowi ogłaszania powstaną nieuzasadnione koszty pośrednie produkcji, to zgodnie z Ustawą o Rachunkowości należy je ująć w sprawozdaniu finansowym w następujący sposób",
+      "correct_answer": "bezwzględnie potraktować je jako koszty obciążające wynik tego okresu, w którym miało miejsce niewykorzystanie normalnych zdolności produkcyjnych",
       "incorrect_answers": [
-        "Prawem względnym",
-        "Prawem łącznym"
+        "wykazać w całości w kosztach okresu, chyba że jednostka gospodarcza spodziewa się , że w kolejnym okresie sprawozdawczym nastąpi przekroczenie normalnych zdolności produkcyjnych – w takim wypadku można je aktywować",
+        "w zależności od przyjętej polityki rachunkowości można je częściowo aktywować a częściowo, współmiernie do przychodów ze sprzedaży ująć w rachunku zysków i strat, w okresie, w którym wystąpiło niewykorzystanie normalnych zdolności produkcyjnych",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Zdolność prawna to",
-      "correct_answer": "Zdolność do bycia spadkobiercą",
+      "question": "Dane historyczne, benchmarking, ciągłe doskonalenie mogą być podstawą ustalenia",
+      "correct_answer": "standardowych kosztów robocizny bezpośredniej",
       "incorrect_answers": [
-        "Zdolność do dokonywania czynności prawnych",
-        "Zdolność do bycia podmiotem odpowiedzialnym za własne działania prawne"
+        "kosztów niewykorzystanych zdolności produkcyjnych w nowoczesnym rachunku kosztów",
+        "kosztów istotnych w procesie decyzyjnym",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Oświadczenie woli należy tak tłumaczyć, jak tego wymagają",
-      "correct_answer": "Zasady współżycia społecznego i ustalone zwyczaje",
+      "question": "W którym z poniższych podpunktów wymieniono wyłącznie kryteria klasyfikacji kosztów prowadzonej ze względu na potrzeby zarządzania jednostką gospodarczą",
+      "correct_answer": "Stopień zależności od rozmiarów produkcji, Stopień wykorzystania zdolności produkcyjnych, Cele i możliwości kontroli",
       "incorrect_answers": [
-        "Adresaci oświadczenia woli",
-        "Zasady interpretacji tekstu umowy."
+        "Istotność kosztów, Cel poniesienia kosztu, Rodzaj kosztów",
+        "Sposób odniesienia kosztów na produkty, Sfera działalności przedsiębiorstwa, Tryb ustalania kosztów",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Oświadczenie woli złożone drugiej stronie dla pozoru jest ",
-      "correct_answer": "Nieważne",
+      "question": "Zapasy w rachunku kosztów zmiennych",
+      "correct_answer": "przyjmują wartość niższą od wartości zapasów ustalonych w rachunku kosztów pełnych niezależnie od metody wyceny rozchodu zapasów",
       "incorrect_answers": [
-        "Ważne",
-        "Bezskuteczne"
+        "przyjmują wartość wyższą od wartości zapasów ustalonych w rachunku kosztów pełnych niezależnie od metody wyceny rozchodu zapasów",
+        "przyjmują wartość wyższą lub równą wartości zapasów ustalonych w rachunku kosztów pełnych, jeżeli przedsiębiorstwo stosuje metodę LIFO wyceny rozchodu zapasów",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Do zachowania formy pisemnej czynności prawnej wystarczy",
-      "correct_answer": "złożenie własnoręcznego podpisu na dokumencie obejmującym treść oświadczenia woli",
+      "question": "Wraz z wydłużeniem horyzontu czasowego, którego dotyczy decyzja",
+      "correct_answer": "coraz więcej kosztów ma charakter kosztów zmiennych",
       "incorrect_answers": [
-        "złożenie własnoręcznego podpisu na dokumencie obejmującym treść oświadczenia woli, chyba, że przepis szczególny stanowi inaczej",
-        "złożenie własnoręcznego podpisu i oznaczenie daty na dokumencie obejmującym treść oświadczenia woli"
+        "zmniejsza się podatność poszczególnych kosztów na rozmiary działalności",
+        "coraz więcej kosztów ma charakter kosztów stałych",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Czynność prawna dokonana przez pełnomocnika w granicach umocowania pociąga za sobą skutki",
-      "correct_answer": "bezpośrednio dla reprezentowanego",
+      "question": "Przykładem nośnika kosztów zasobów dla zasobu „pomieszczenie” może być",
+      "correct_answer": "dowolny nośnik uwzględniający charakter wykorzystania pomieszczenia i sposób jego zaangażowania w działania",
       "incorrect_answers": [
-        "bezpośrednio dla umocowanego",
-        "bezpośrednio dla umocowanego, chyba że przepis szczególny stanowi inacze"
+        "wyłącznie nośnik oparty na powierzchni lub kubaturze pomieszczenia",
+        "wyłącznie nośnik oparty na powierzchni lub kubaturze albo nośnik oparty na czasie",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Do zbywania i obciążania nieruchomości przedsiębiorstwa jest wymagane pełnomocnictwo",
-      "correct_answer": "do poszczególnej czynności",
+      "question": "Wynikiem kalkulacji w rachunku kosztów docelowych jest",
+      "correct_answer": "limit kosztu produktu",
       "incorrect_answers": [
-        "szczególne",
-        "ogólne"
+        "koszt planowany produktu",
+        "koszt rzeczywisty produktu",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Oferta złożona w postaci elektronicznej wiąże składającego, jeżeli druga strona potwierdzi jej otrzymanie",
-      "correct_answer": "niezwłocznie",
+      "question": "Którą cenę należy uwzględnić określając koszt docelowy",
+      "correct_answer": "cenę wyznaczona przez rynek",
       "incorrect_answers": [
-        "w terminie 7 dni od dnia jej złożenia",
-        "w terminie 14 dni od dnia jej złożenia"
+        "minimalną cenę produktu",
+        "maksymalna cenę produktu",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Podstęp osoby trzeciej jest jednoznaczny z podstępem strony",
-      "correct_answer": "jeżeli ta o podstępie wiedziała i nie zawiadomiła o nim drugiej strony albo jeżeli czynność prawna była nieodpłatna",
+      "question": "Jednostka może w koszcie wytworzenia ująć koszty pośrednie związane z wytworzeniem, niezależnie od poziomu wykorzystania zdolności produkcyjnych",
+      "correct_answer": "wyłącznie w jednostkach, których roczne sprawozdanie finansowe nie podlega obowiązkowi badania i ogłaszania i pod warunkiem, że ustalony w ten sposób koszt wytworzenia nie będzie wyższy od ceny sprzedaży netto",
       "incorrect_answers": [
-        "nawet jeżeli ta o podstępie nie wiedziała",
-        "jeżeli ta o podstępie wiedziała i nie zawiadomiła o nim drugiej strony albo jeżeli czynność prawna była odpłatna"
+        "pod warunkiem, że ustalony w ten sposób koszt wytworzenia nie będzie wyższy od ceny sprzedaży netto",
+        "wyłącznie w jednostkach, których roczne sprawozdanie finansowe nie podlega obowiązkowi badania i ogłaszania",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Po każdym przerwaniu przedawnienia",
-      "correct_answer": "biegnie ono na nowo",
+      "question": "Podział kosztów na stałe i zmienne",
+      "correct_answer": "może być stosowany zarówno w długim jak i w krótkim okresie, przy czym klasyfikacja kosztów na stałe i zmienne w tych okresach może być inna",
       "incorrect_answers": [
-        "biegnie ono od momentu, w którym zostało przerwane, chyba że ustawa stanowi inaczej",
-        "biegnie ono od momentu, w którym zostało przerwane"
+        "jest związany z wpływem zmian wielkości produkcji na poziom kosztów i ma zastosowanie wyłącznie dla przedsiębiorstw produkcyjnych",
+        "może być stosowany wyłącznie w krótkim okresie",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Uznanie roszczenia przez osobę, przeciwko której roszczenie przysługuje",
-      "correct_answer": "przerywa bieg przedawnienia",
+      "question": "Do zadań rachunku kosztów wspierającego zarządzanie podmiotem gospodarczym należy między innymi",
+      "correct_answer": "dostarczanie informacji, które umożliwiają stworzenie systemu mierników ocen dla ośrodków odpowiedzialności",
       "incorrect_answers": [
-        "nie przerywa biegu przedawnienia, chyba że przepis szczególny stanowi inaczej",
-        "nie przerywa biegu przedawnienia"
+        "sporządzanie raportów dostosowanych do potrzeb odbiorców wewnętrznych i zewnętrznych",
+        "ustalenie prawidłowego wyniku działalności podmiotu dzięki prawidłowej wycenie produktów",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Jeżeli do ważności czynności prawnej potrzebna jest szczególna forma, pełnomocnictwo do dokonania tej czynności powinno być udzielone",
-      "correct_answer": "w tej samej formie",
+      "question": "W zarządzaniu podmiotem gospodarczym informacje o kosztach wykorzystywane są do",
+      "correct_answer": "planowania, podejmowania decyzji, kontroli działalności",
       "incorrect_answers": [
-        "na piśmie",
-        "w formie aktu notarialnego"
+        "sporządzania deklaracji podatkowej CIT i rozliczeń wewnętrznych",
+        "wyłącznie do podejmowania decyzji dotyczących działalności operacyjnej",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Termin oznaczony w dniach kończy się z",
-      "correct_answer": "upływem ostatniego dnia",
+      "question": "W latach 90-tych XX wieku nastąpił rozwój takich koncepcji rachunku kosztów jak",
+      "correct_answer": "rachunek kosztów cyklu życia produktów, rachunku kosztów docelowych",
       "incorrect_answers": [
-        "chwilą rozpoczęcia się ostatniego dnia",
-        "upływem dnia następującego po dniu kończącym termin"
+        "rachunek kosztów zmiennych, rachunek kosztów docelowych",
+        "rachunek kosztów działań, rachunek kosztów zmiennych, rachunek redukcji kosztów (kaizen)",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Warunkowo uprawniony",
-      "correct_answer": "może wykonywać wszelkie czynności, które zmierzają do zachowania jego prawa",
+      "question": "W fabryce samochodów wynagrodzenia handlowców będą kosztem zaliczanym do grupy",
+      "correct_answer": "kosztów podstawowej działalności operacyjnej",
       "incorrect_answers": [
-        "może wykonywać wszelkie czynności ogólne",
-        "nie może wykonywać żadnych czynności, "
+        "pozostałych kosztów operacyjnych",
+        "kosztów działalności pomocniczej",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Jeżeli oferent nie oznaczył w ofercie terminu, w ciągu którego oczekiwać będzie odpowiedzi, oferta złożona w obecności drugiej strony albo za pomocą środka bezpośredniego porozumiewania się na odległość przestaje wiązać, gdy nie zostanie przyjęta",
-      "correct_answer": "niezwłocznie",
+      "question": "Konto „Koszty sprzedaży” prowadzone w systemie finansowo-księgowym należy do grupy kont zespołu 5 i w przedsiębiorstwie handlowym służy do ewidencji m.in.",
+      "correct_answer": "kosztów transportu wyrobów do klientów, reklamy wyrobów, wynagrodzeń handlowców",
       "incorrect_answers": [
-        "w terminie 7 dni od dnia złożenia oferty",
-        "w terminie 14 dni od dnia złożenia oferty"
+        "kosztów wytworzenia tych wyrobów, które zostały sprzedane w danym okresie",
+        "wartości towarów, które sprzedano, ustalonej odpowiednio do sytuacji w cenach zakupu lub cenach nabycia",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Do zawarcia umowy",
-      "correct_answer": "wystarcza wymiana dokumentów obejmujących treść oświadczeń woli, z których każdy jest podpisany przez jedną ze stron, lub dokumentów, z których każdy obejmuje treść oświadczenia woli jednej ze stron i jest przez nią podpisany",
+      "question": "wartości towarów, które sprzedano, ustalonej odpowiednio do sytuacji w cenach zakupu lub cenach nabycia. ",
+      "correct_answer": "zmianę stanu produktów",
       "incorrect_answers": [
-        "wystarcza wymiana dokumentów obejmujących treść oświadczeń woli, z których każdy jest podpisany przez obie strony",
-        "wystarcza wymiana dokumentów obejmujących treść oświadczeń woli, nawet jeżeli powyższe oświadczenie woli nie zawiera podpisu strony"
+        "koszt wytworzenia sprzedanych produktów",
+        "koszty sprzedaży",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Co do zasady jednostronna czynność prawna dokonana w cudzym imieniu bez umocowania lub z przekroczeniem jego zakresu jest",
-      "correct_answer": "nieważna",
+      "question": "Przy kalkulacji doliczeniowej pełnego kosztu wytworzenia produktu stosuje się klucze rozliczeniowe, za pomocą których w sposób umowny rozlicza się na produkty",
+      "correct_answer": "wyłącznie pośrednie koszty produkcji",
       "incorrect_answers": [
-        "ważna",
-        "bezskuteczna"
+        "wszystkie koszty produkcji tj. koszty bezpośrednie i pośrednie produkcji",
+        "wyłącznie stałe pośrednie koszty produkcji",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Pozorność oświadczenia woli",
-      "correct_answer": "nie ma wpływu na skuteczność odpłatnej czynności prawnej, dokonanej na podstawie pozornego oświadczenia, jeżeli wskutek tej czynności osoba trzecia nabywa prawo lub zostaje zwolniona od obowiązku, chyba że działała w złej wierze",
+      "question": "W przypadku występowania wielokierunkowych świadczeń wzajemnych między ośrodkami działalności pomocniczej takie same wyniki końcowe rozliczeń zapewniają następujące metody",
+      "correct_answer": "metoda kolejnych przybliżeń i metoda układu równań (macierzowa, algebraiczna)",
       "incorrect_answers": [
-        "ma wpływ na skuteczność odpłatnej czynności prawnej, dokonanej na podstawie pozornego oświadczenia, jeżeli wskutek tej czynności osoba trzecia nabywa prawo lub zostaje do czegoś zobowiązana",
-        "ma wpływ na skuteczność nieodpłatnej czynności prawnej dokonanej na podstawie pozornego oświadczenia, jeżeli wskutek tej czynności osoba trzecia nabywa prawo lub zostaje zwolniona od obowiązku, chyba że przepis szczególny stanowi inaczej"
+        "metoda stopniowa (sekwencyjna) i metoda kolejnych przybliżeń",
+        "metoda układu równań (macierzowa, algebraiczna) i metoda stawek częściowo rzeczywistych-częściowo planowanych",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Pełnomocnictwo",
-      "correct_answer": "może być odwołane w każdym czasie, chyba że mocodawca zrzekł się odwołania pełnomocnictwa z przyczyn uzasadnionych treścią stosunku prawnego będącego podstawą pełnomocnictwa",
+      "question": "Metoda kalkulacji doliczeniowej ma zastosowanie w przypadku",
+      "correct_answer": "kalkulacji kosztów wytworzenia finalnych obiektów kalkulacji kosztów w sprawozdawczym rachunku kosztów, ale także do kalkulacji kosztów świadczeń wydziałów produkcji pomocniczej, czy też działalności socjalnej, zatem do kalkulacji kosztów różnych obiektów kosztów",
       "incorrect_answers": [
-        "a. może być odwołane w czasie w pełnomocnictwie wskazanym, chyba że mocodawca zrzekł się odwołania pełnomocnictwa z przyczyn uzasadnionych treścią stosunku prawnego będącego podstawą pełnomocnictwa.",
-        "nie może być odwołane"
+        "kalkulacji kosztów wyłącznie produktów finalnych (wyrobów, usług), to znaczy tych, które są sprzedawane odbiorcom zewnętrznym w ramach podstawowej działalności operacyjnej przedsiębiorstwa",
+        "kalkulacji kosztów różnych obiektów kosztów z wyłączeniem świadczeń działalności socjalnej",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Czynność prawna, zgodnie z przepisami kodeksu cywilnego",
-      "correct_answer": "jest kształtowana nie tylko przez treść oświadczenia woli, ale również przez ustawę oraz zasady współżycia społecznego.",
+      "question": "Przedsiębiorstwo X zajmujące się szyciem odzieży medycznej otrzymało zamówienie na partię 20 szt. fartuchów chirurgicznych z wydrukowanym kolorowym logo klienta, które w tym celu ma zaprojektować przedsiębiorstwo X. Koszty zaprojektowania aplikacji (logo) stanowić będą",
+      "correct_answer": "element kosztów wytworzenia produktów",
       "incorrect_answers": [
-        "wywołuje wyłącznie skutki prawne w niej wyrażone",
-        "wywołuje te skutki prawne, które są objęte świadomością i zamiarem strony dokonującej czynności prawnej"
+        "koszty okresu",
+        "składnik aktywów niematerialnych",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Każdy człowiek od chwili urodzenia ma",
-      "correct_answer": "zdolność prawną",
+      "question": "Dla potrzeb kalkulacji kosztów wytworzenia produktów zdolności produkcyjne mogą być określane z wykorzystaniem (odniesieniem do) różnych obiektów. Mogą nimi być",
+      "correct_answer": "zasoby np. maszyny produkcyjne",
       "incorrect_answers": [
-        "zdolność do czynności prawnych i zdolność prawną",
-        "ograniczoną zdolność do czynności prawnych"
+        "rodzaje kosztów np. wynagrodzenia",
+        "segmenty działalności np. podstawowa działalność operacyjna, pozostała działalność operacyjna, działalność finansowa",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Zgodnie z przepisami Kodeksu cywilnego",
-      "correct_answer": "wygaśnięcie prokury przedsiębiorca powinien zgłosić do rejestru przedsiębiorców",
+      "question": "Zdolności produkcyjne brane pod uwagę przy ustalaniu uzasadnionej części kosztów pośrednich produkcji powinny być",
+      "correct_answer": "wyrażane przy pomocy miary najlepiej odzwierciedlającej potencjał produkcyjny przedsiębiorstwa (np. ilość operacji (działań) produkcyjnych, które w przedsiębiorstwie mogą być wykonane)",
       "incorrect_answers": [
-        "można wyłączyć odwołalność prokury",
-        "prokury może udzielić każdy"
+        "co pewien czas weryfikowane (uaktualniane) ze względu na ustalanie wartości pośrednich kosztów zmiennych",
+        "niezmieniane przez okres co najmniej dwóch lat",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Właściciel może",
-      "correct_answer": "korzystać z rzeczy i nią rozporządzać",
+      "question": "W sytuacji, kiedy w przedsiębiorstwie nie występują odchylenia budżetowe, uzasadniona część kosztów pośrednich jest zawsze równa",
+      "correct_answer": "sumie rzeczywistych zmiennych kosztów pośrednich i planowanych stałych kosztów pośrednich dla rzeczywistej wielkości produkcji",
       "incorrect_answers": [
-        "wyłącznie korzystać z rzeczy oraz pobierać z niej pożytki i inne dochody",
-        "wyłącznie posiadać i użytkować rzecz, pobierać z niej pożytki oraz dokonać zbycia własności rzeczy"
+        "sumie planowanych zmiennych kosztów pośrednich i planowanych stałych kosztów pośrednich dla rzeczywistej wielkości produkcji",
+        "sumie planowanych zmiennych kosztów pośrednich i rzeczywistych stałych kosztów pośrednich",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Ograniczone prawa rzeczowe uszczuplają prawa",
-      "correct_answer": "właściciela",
+      "question": "Na koszt zasobu zaangażowanego",
+      "correct_answer": "mogą składać się koszty proste mające charakter zarówno kosztów stałych jak i zmiennych",
       "incorrect_answers": [
-        "użytkownika",
-        "zastawnika"
+        "mogą składać się wyłącznie koszty proste mające charakter kosztów stałych",
+        "mogą składać się wyłącznie koszty proste mające charakter kosztów zmiennych",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Strony umowy cywilnoprawnej",
-      "correct_answer": "mają swobodę uzgodnienia typu i treści umowy",
+      "question": "Metoda dwóch punktów polega na ustaleniu funkcji kosztów na podstawie",
+      "correct_answer": "przeprowadzonej prostej przechodzącej przez dwie obserwacje o skrajnych poziomach kosztów całkowitych",
       "incorrect_answers": [
-        "mają swobodę wyboru formy zawarcia każdej umowy",
-        "mają swobodę uzgodnienia treści umowy wyłącznie w odniesieniu do umów nazwanych"
+        "przeprowadzonej prostej przechodzącej przez dwie obserwacje o skrajnych poziomach produkcji",
+        "przeprowadzonej prostej przechodzącej przez dwie obserwacje o skrajnych poziomach kosztów zmiennych",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Jeżeli z ustawy lub czynności prawnej wynika, że wierzyciel może żądać całości lub części świadczenia od wszystkich dłużników łącznie, od kilku z nich lub od każdego z osobna, a zaspokojenie wierzyciela przez któregokolwiek z dłużników zwalnia pozostałych, to występuje",
-      "correct_answer": "solidarność bierna (dłużników),",
+      "question": "W rachunku kosztów działań jako nośniki kosztów działań określane są",
+      "correct_answer": "klucze rozliczeniowe kosztów działań na obiekty finalne",
       "incorrect_answers": [
-        "solidarność czynna (wierzycieli)",
-        "świadczenie podzielne"
+        "działania stanowiące obiekty kosztowe",
+        "zasoby zużywane w związku z realizacją działań",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Cesja (przelew) wierzytelności polega na tym, że",
-      "correct_answer": "wierzyciel może bez zgody dłużnika przenieść wierzytelność na osobę trzecią, chyba że sprzeciwia się to ustawie, zastrzeżeniu umownemu albo właściwości zobowiązania",
+      "question": "Rachunek kosztów ciągłego doskonalenia jest to",
+      "correct_answer": "system zarządzania kosztami ukierunkowany na ciągłe doskonalenie procesów gospodarczych występujących w przedsiębiorstwie",
       "incorrect_answers": [
-        "osoba trzecia wstępuje w miejsce dłużnika, który zostaje z długu zwolniony, na podstawie umowy dokonanej na piśmie pod rygorem nieważności",
-        "na mocy ustawy lub umowy obok dotychczasowego dłużnika pojawia się dodatkowy dłużnik"
+        "system zarządzania kosztami klienta",
+        "system monitorowania kosztów działalności",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Dzierżawca uprawniony na podstawie umowy dzierżawy do używania nieruchomości i pobierania z niej pożytków przez czas oznaczony",
-      "correct_answer": "może oddać nieruchomość osobie trzeciej do bezpłatnego używania lub ją poddzierżawić za zgodą wydzierżawiającego",
+      "question": "Cena możliwa do osiągnięcia to",
+      "correct_answer": "średnia cena w całym cyklu życia produktu przy założonym udziale w rynku",
       "incorrect_answers": [
-        "może poddzierżawić tą nieruchomość w okresie trwania umowy",
-        "nie może poddzierżawić tej nieruchomości, ale może oddać ją do bezpłatnego używania"
+        "wewnętrzna cena transferowa",
+        "cena minimalna produktu",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Jeżeli przedmiotem zobowiązania umownego jest suma pieniężna: ",
-      "correct_answer": "sąd może – w razie istotnej zmiany siły nabywczej pieniądza po powstaniu zobowiązania - zmienić wysokość świadczenia pieniężnego ustalonego w umowie",
+      "question": "Koszty świadczeń realizowanych przez osobę fizyczną powinny być ujmowane na koncie",
+      "correct_answer": "wynagrodzenia lub usługi obce, w zależności od charakteru umowy wiążącej osobę fizyczną i przedsiębiorstwo",
       "incorrect_answers": [
-        "z żądaniem zmiany wysokości świadczenia może wystąpić strona umowy prowadząca przedsiębiorstwo, jeżeli świadczenie pozostaje w związku z prowadzeniem tego przedsiębiorstwa",
-        "spełnienie świadczenia zawsze następuje przez zapłatę sumy nominalnej zgodnie z zasadą nominalizmu"
+        "wynagrodzenia, przy czym nie ma znaczenia charakter umowy wiążącej osobę fizyczną i przedsiębiorstwo",
+        "wynagrodzenia, jednak wyłącznie w sytuacji, kiedy osoba fizyczna jest zatrudniona w przedsiębiorstwie w ramach stosunku pracy",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Spełnienie świadczenia przez jednego z dłużników solidarnych ",
-      "correct_answer": "o tym, w jakich częściach dłużnik, który spełnił świadczenie, może żądać zwrotu od współdłużników rozstrzyga treść istniejącego między nimi stosunku prawnego",
+      "question": "Układ funkcjonalny (kalkulacyjny) kosztów",
+      "correct_answer": "obejmuje koszty dotyczące tego okresu bez względu na moment ich ponoszenia",
       "incorrect_answers": [
-        "współdłużnicy odpowiadają solidarnie w stosunku do dłużnika, który spełnił świadczenie",
-        "dłużnik, który spełnił świadczenie w całości przestaje być dłużnikiem, a pozostali współdłużnicy nadal mają dług w stosunku do wierzyciela"
+        "służy wyliczeniu kosztu wytworzenia produktu i jest układem nieewidencyjnym w systemie informacyjnym rachunkowości finansowej",
+        "grupuje wyłącznie bezpośrednie zmienne koszty produkcji i pośrednie koszty stałe",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Spełnienie świadczenia przez jednego z dłużników solidarnych ",
-      "correct_answer": "o tym, w jakich częściach dłużnik, który spełnił świadczenie, może żądać zwrotu od współdłużników rozstrzyga treść istniejącego między nimi stosunku prawnego",
+      "question": "Które z poniższych modeli rachunku kosztów mogą pełnić funkcję sprawozdawczą",
+      "correct_answer": "rachunek kosztów pełnych, rachunek kosztów działań",
       "incorrect_answers": [
-        "współdłużnicy odpowiadają solidarnie w stosunku do dłużnika, który spełnił świadczenie",
-        "dłużnik, który spełnił świadczenie w całości przestaje być dłużnikiem, a pozostali współdłużnicy nadal mają dług w stosunku do wierzyciela"
+        "rachunek kosztów działań, rachunek kosztów cyklu życia",
+        "rachunek kosztów docelowych, rachunek kosztów cyklu życia",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Zgodnie z kodeksem cywilnym odpowiedzialność z tytułu czynów niedozwolonych",
-      "correct_answer": "rodzi odpowiedzialność Skarbu Państwa, jeżeli szkoda została wyrządzona przez zaniechanie przy wykonywaniu władzy publicznej",
+      "question": "W przedsiębiorstwie handlowym koszty związane z zakupem, magazynowaniem i sprzedażą klientom towarów handlowych określane są jako",
+      "correct_answer": "koszty działalności handlowej",
       "incorrect_answers": [
-        "nie powoduje obowiązku naprawienia szkody przez osobę prawną wyrządzoną z winy jej organu",
-        "jest niezależna od winy"
+        "koszty działalności pomocniczej",
+        "koszty usług obcych (działalności usługowej)",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Źródłami powszechnie obowiązującego prawa Rzeczpospolitej Polskiej są",
-      "correct_answer": " Konstytucja RP, ustawy, ratyfikowane umowy międzynarodowe oraz rozporządzenia",
+      "question": "Konto „Koszty sprzedaży” prowadzone w systemie finansowo-księgowym należy do grupy kont zespołu 5 i w przedsiębiorstwie handlowym służy do ewidencji m.in",
+      "correct_answer": "kosztów transportu wyrobów do klientów, reklamy wyrobów, wynagrodzeń handlowców",
       "incorrect_answers": [
-        " Konstytucja RP, ratyfikowane umowy międzynarodowe oraz rozporządzenia",
-        " Konstytucja RP, ustawy, umowy międzynarodowe oraz rozporządzenia"
+        "kosztów wytworzenia tych wyrobów, które zostały sprzedane w danym okresie",
+        "wartości towarów, które sprzedano, ustalonej odpowiednio do sytuacji w cenach zakupu lub cenach nabycia",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": " Akty prawa miejscowego:",
-      "correct_answer": " są źródłami powszechnie obowiązującego prawa Rzeczpospolitej Polskiej, ale tylko na obszarze działania organów, które je ustanowiły",
+      "question": "Na koncie zespołu 4 o nazwie „podatki i opłaty” ewidencjonuje się m.in. następujące koszty",
+      "correct_answer": "podatek od nieruchomości, podatek od środków transportu",
       "incorrect_answers": [
-        " są źródłami powszechnie obowiązującego prawa Rzeczpospolitej Polskiej, ",
-        " nie są źródłami powszechnie obowiązującego prawa Rzeczpospolitej Polskiej,"
+        "podatek dochodowy od osób prawnych, opłaty za wieczyste użytkowanie gruntu",
+        "podatek od wynagrodzeń, podatek akcyzowy",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Warunkiem wejścia w życie ustaw, rozporządzeń oraz aktów prawa miejscowego jest:",
-      "correct_answer": " ich ogłoszenie",
+      "question": "W kalkulacji fazowej półfabrykatowej",
+      "correct_answer": "koszt półfabrykatu z poprzedniej fazy traktowany jest jako materiał bezpośredni kolejnej fazy",
       "incorrect_answers": [
-        " prawidłowy tryb uchwalenia",
-        " przejście całego procesu legislacyjnego"
+        "koszty w poszczególnych fazach są obliczane oddzielnie",
+        "nie jest konieczne prowadzenie ewidencji magazynowej po poszczególnych fazach produkcyjnych",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Zasady i tryb ogłaszania aktów normatywnych określone są w ",
-      "correct_answer": " ustawie",
+      "question": "W przedsiębiorstwie przetwórstwa owocowo-warzywnego, komórką produkcji pomocniczej będzie prawdopodobnie",
+      "correct_answer": "wydział remontowy",
       "incorrect_answers": [
-        " stosownych aktach wykonawczych",
-        " Konstytucji RP"
+        "wydział sortowania owoców",
+        "dział sprzedaży",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Umowy międzynarodowe ratyfikowane za uprzednią zgodą wyrażoną w ustawie są ogłaszane w trybie",
-      "correct_answer": " wymaganym dla ustaw",
+      "question": "Załóżmy, że przedsiębiorstwo posiada dwa wydziały produkcji pomocniczej: A i B świadczące usługi sobie wzajemnie, a także dla komórek administracji przedsiębiorstwa. Jeżeli wydział A otrzymał od wydziału B świadczenia o niższej wartości, to przy metodzie stopniowej należy",
+      "correct_answer": "rozliczyć świadczenia wydziału A dla wydziału B, a świadczenia zwrotne pominąć",
       "incorrect_answers": [
-        " pilnym",
-        " zwykłym"
+        "rozliczyć świadczenia wydziału B dla wydziału A, a świadczenia zwrotne pominąć",
+        "kolejność rozliczania świadczeń wzajemnych między komórkami produkcji pomocniczej nie ma znaczenia, obowiązuje dowolność ustaleń, które świadczenia wzajemne firma pominie",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Zasady ogłaszania innych umów międzynarodowych ",
-      "correct_answer": " określa ustawa",
+      "question": "Koszty ogólnego zarządzania firmą w sprawozdaniu finansowym prezentowane są",
+      "correct_answer": "w kalkulacyjnej wersji rachunku zysków i strat wartości kosztów dotyczących b.o.",
       "incorrect_answers": [
-        " są takie same jak dla ustaw",
-        " są zawarte w tych umowach"
+        "w przypadkach szczególnych – w bilansie jako element wartości wycenianych zapasów",
+        "w kalkulacyjnej wersji rachunku zysków i strat wartości kosztów poniesionych w b.o.",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Ratyfikacja przez Rzeczpospolitą Polską umowy międzynarodowej i jej wypowiedzenie wymaga uprzedniej zgody wyrażonej w ustawie:",
-      "correct_answer": " jeśli umowa dotyczy kwestii wymienionych enumeratywnie w Konstytucji RP",
+      "question": "Przy stosowaniu rachunku kosztów normalnych mogą pojawić się następujące rodzaje odchyleń",
+      "correct_answer": "odchylenia budżetowe stałych i zmiennych kosztów pośrednich produkcji oraz odchylenia wykorzystania zdolności produkcyjnych",
       "incorrect_answers": [
-        " zawsze",
-        "jeśli umowa dotyczy pokoju, sojuszy, układów politycznych lub układów wojskowych"
+        "odchylenia budżetowe kosztów bezpośrednich produkcji oraz odchylenia budżetowe stałych i zmiennych kosztów pośrednich produkcji",
+        "odchylenia budżetowe kosztów bezpośrednich produkcji",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Jeżeli umowa międzynarodowa dotyczy znacznego obciążenia państwa pod względem finansowym, jej ratyfikacja :",
-      "correct_answer": " wymaga uprzedniej zgody wyrażonej w ustawie",
+      "question": "Poziom normalnego wykorzystania zdolności produkcyjnych przedsiębiorstwa",
+      "correct_answer": "może być wyrażony za pomocą rozmiarów produkcji",
       "incorrect_answers": [
-        " wymaga następczej zgody wyrażonej w ustawie",
-        " nie wymaga zgody wyrażonej w ustawie"
+        "jest określany oddzielnie dla każdego wydziału produkcyjnego w przedsiębiorstwie",
+        "zawsze określany jest za pomocą miernika określającego czas pracy",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Jeżeli umowa międzynarodowa dotyczy spraw uregulowanych w ustawie lub w których Konstytucja RP wymaga ustawy, jej ratyfikacja:",
-      "correct_answer": "wymaga uprzedniej zgody wyrażonej w ustawie",
+      "question": "Odchylenie budżetowe stałych kosztów pośrednich",
+      "correct_answer": "może zostać rozliczone zarówno na wytworzone produkty jak i odchylenie z tytułu niewykorzystanych zdolności produkcyjnych",
       "incorrect_answers": [
-        " nie wymaga zgody wyrażonej w ustawie",
-        " wymaga następczej zgody wyrażonej w ustawie"
+        "może zostać rozliczone wyłącznie na wytworzone produkty",
+        "może zostać rozliczone wyłącznie na odchylenie z tytułu niewykorzystanych zdolności produkcyjnych",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "O zamiarze przedłożenia Prezydentowi Rzeczpospolitej Polskiej do ratyfikacji umów międzynarodowych, których ratyfikacja nie wymaga  zgody wyrażonej w ustawie, Sejm zawiadamiany jest przez:",
-      "correct_answer": "Prezesa Rady Ministrów",
+      "question": "W sytuacji gdy rzeczywista wielkość produkcji jest niższa od planowanej",
+      "correct_answer": "może wystąpić ujemne lub dodatnie łączne odchylenie kosztów zmiennych",
       "incorrect_answers": [
-        " Minister Spraw Zagranicznych",
-        "Radę Ministrów"
+        "może wystąpić wyłącznie ujemne (niekorzystne) łączne odchylenie kosztów zmiennych",
+        "nigdy nie wystąpi łączne odchylenie kosztów zmiennych, ponieważ budżet powinien zostać przeliczony do rzeczywistej wielkości produkcji",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Zasady oraz tryb zawierania, ratyfikowania i wypowiadania umów międzynarodowych określa (ją):",
-      "correct_answer": "ustawanie ",
+      "question": "W sytuacji, gdy koszty pośrednie przypisane do produktów na podstawie standardowej stawki tych kosztów są wyższe niż faktycznie poniesione koszty pośrednie, w kontrolingu kosztów mówi się o",
+      "correct_answer": "odchyleniu korzystnym",
       "incorrect_answers": [
-        " normy prawa międzynarodowego",
-        "Konstytucja RP"
+        "niedoszacowaniu kosztów pośrednich",
+        "odchyleniu niekorzystnym",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Rzeczpospolita Polska może przekazać organizacji międzynarodowej lub organowi międzynarodowemu kompetencje organów władzy państwowej w niektórych sprawach:",
-      "correct_answer": " na podstawie umowy międzynarodowej; ustawa wyrażająca zgodę na ratyfikację takiej umowy jest uchwalana przez Sejm większością 2/3 głosów w obecności co najmniej połowy ustawowej liczby posłów oraz przez Senat większością 2/3 głosów w obecności co najmniej połowy ustawowej liczby senatorów",
+      "question": "Która z poniższych metod wyodrębniania kosztów stałych i zmiennych jest najbardziej dokładna",
+      "correct_answer": "metoda regresji liniowej",
       "incorrect_answers": [
-        "na podstawie ustawy, uchwalonej przez Sejm bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów oraz przez Senat większością ¾ głosów w obecności co najmniej połowy ustawowej liczby senatorów",
-        "na podstawie umowy międzynarodowej, ustawa wyrażająca  zgodę na ratyfikację takiej umowy jest uchwalana przez Sejm bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów oraz przez Senat większością 2/3 głosów w obecności co najmniej połowy ustawowej liczby senatorów"
+        "metoda dwóch punktów",
+        "metoda księgowa",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Wyrażenie zgody na umowę, na podstawie której Rzeczpospolita Polska może przekazać organizacji międzynarodowej lub organowi międzynarodowemu kompetencje organów władzy państwowej w  niektórych sprawach, poza trybem z art. 90 ust. 2 Konstytucji RP.",
-      "correct_answer": " może być uchwalone w referendum ogólnokrajowym",
+      "question": "Przy podejmowaniu decyzji o inwestycji mającej dla przedsiębiorstwa strategiczne znaczenie pod uwagę powinny być brane",
+      "correct_answer": "wszystkie koszty związane z tą inwestycją ustalone zgodnie z rachunkiem kosztów pełnych",
       "incorrect_answers": [
-        " powinno być uchwalone  w referendum ogólnokrajowym",
-        " musi  być uchwalone w referendum ogólnokrajowym"
+        "wyłącznie koszty zmienne związane z tą inwestycją",
+        "koszty zmienne i inkrementalne koszty stałe związane z tą inwestycją",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Uchwałę w sprawie wyboru trybu wyrażenia zgody na ratyfikację umowy, na podstawie której Rzeczpospolita Polska może przekazać organizacji międzynarodowej lub organowi międzynarodowemu kompetencje organów władzy państwowej w niektórych sprawach, podejmuje:",
-      "correct_answer": " Sejm bezwzględną większością  głosów w obecności co najmniej połowy ustawowej liczby posłów",
+      "question": "W procedurze ustalania wyniku, w konwencji rachunku kosztów zmiennych i stałych, marża na pokrycie",
+      "correct_answer": "jest ustalana jako różnica między przychodami ze sprzedaży i sumą kosztu wytworzenia produktów ustalonego w rachunku kosztów zmiennych oraz zmiennego kosztu sprzedaży",
       "incorrect_answers": [
-        "Sejm i Senat bezwzględną większością głosów",
-        " Sejm i Senat  bezwzględną większością głosów  w obecności co najmniej połowy ustawowej liczby posłów i senatorów."
+        "oznacza nadwyżkę przychodów ze sprzedaży nad kosztem wytworzenia produktów ustalonym w rachunku kosztów zmiennych",
+        "wartościowo przekracza różnicę między kosztami całkowitymi i kosztami stałymi",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": " Ratyfikowana umowa międzynarodowa, po jej ogłoszeniu w Dzienniku Ustaw Rzeczpospolitej Polskiej",
-      "correct_answer": " stanowi część krajowego porządku prawnego i jest bezpośrednio stosowana, chyba że jej stosowanie jest uzależnione od wydania ustawy",
+      "question": "Praktyczna dostępność zasobów ludzkich",
+      "correct_answer": "może uwzględniać takie czynniki jak bezpłatne urlopy czy przerwy fizjologiczne w pracy",
       "incorrect_answers": [
-        " jest stosowana bezpośrednio",
-        " może być stosowana tylko w sposób określony w ustawie"
+        "uwzględnia wyłącznie czas pracy wynikający z umowy zawartej z pracownikiem oraz przepisy prawa pracy",
+        "wynosi około 85% dostępności teoretycznej zasobów",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Jeżeli nie da się pogodzić  treści ustawy z  umową międzynarodową ratyfikowaną za uprzednią zgodą  określoną w ustawie, pierwszeństwo ma :",
-      "correct_answer": " umowa",
+      "question": "Ceny sprzedaży produktów oparte na wartości dla klienta są uwzględniane w",
+      "correct_answer": "rachunku kosztów docelowych",
       "incorrect_answers": [
-        " akt prawny, który wskazano jako mający pierwszeństwo w aktach wykonawczych do umowy lub ustawy",
-        " ustawa"
+        "rachunku kosztów cyklu życia produktów",
+        "rachunku kosztów kaizen (kaizen costing)",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "W przypadku kolizji z ustawami prawo stosowane przez umowę konstytuującą organizację międzynarodową ",
-      "correct_answer": " jest stosowane bezpośrednio, z pierwszeństwem w przypadku kolizji z ustawami",
+      "question": "Amortyzacja maszyny produkcyjnej jest przykładem kosztu prostego, ponieważ",
+      "correct_answer": "koszt ten w danym przedsiębiorstwie nie może zostać podzielony na elementy składowe",
       "incorrect_answers": [
-        " nie może być stosowane",
-        " nie może być stosowane bezpośrednio"
+        "koszt ten można aktywować w bilansie w przypadku, kiedy produkt nie zostanie sprzedany",
+        "koszt ten związany jest z zasobem zaangażowanym, jakim jest maszyna produkcyjna, i można w ramach tego kosztu wyodrębnić koszt niewykorzystanego potencjału",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Rozporządzenia są wydawane :",
-      "correct_answer": " przez organy wskazane w Konstytucji RP, na podstawie szczegółowego upoważnienia zawartego w ustawie i w celu jej wykonania",
+      "question": "Koszt utraconych korzyści",
+      "correct_answer": "występuje zawsze wówczas, gdy wybór jednej możliwości działania wyklucza możliwość realizacji innej",
       "incorrect_answers": [
-        " przez organy konstytucyjne na podstawie szczegółowego  upoważnienia zawartego w ustawie, w celu realizacji celów polityki rządu",
-        " przez stosowne organy, na podstawie upoważnienia  ustawowego, w celu określonym w ustawie"
+        "jest tożsamy z pojęciem kosztów zapadłych",
+        "może być zarejestrowany w rachunkowości finansowej",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Upoważnienie do wydania rozporządzenia  powinno określać:",
-      "correct_answer": " organ właściwy do wydania rozporządzenia  i zakres spraw przekazanych do uregulowania  oraz wytyczne dotyczące treści aktu",
+      "question": "Koszty stałe",
+      "correct_answer": "mogą być związane z konkretnym produktem",
       "incorrect_answers": [
-        " organ właściwy do wydania rozporządzenia oraz organy, które mają je konsultować",
-        " termin wydania rozporządzenia oraz organy, które wydadzą rozporządzenie"
+        "zawsze mają charakter kosztów pośrednich",
+        "mogą być związane wyłącznie z miejscem powstawania kosztów lub całym przedsiębiorstwem",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Przekazanie kompetencji do wydania rozporządzenia przez upoważniony organ innemu organowi:",
-      "correct_answer": " jest niemożliwe",
+      "question": "Rachunek kosztów działań",
+      "correct_answer": "modelu rachunku kosztów, który może pełnić zarówno funkcję sprawozdawczą jak i funkcję wsparcia zarządzania podmiotem gospodarczym",
       "incorrect_answers": [
-        " może nastąpić tylko w formie określonej ustawą, z ważnych przyczyn",
-        " może nastąpić tylko w formie ustawy"
+        "jest przykładem modelu rachunku kosztów, który może pełnić wyłącznie funkcję wsparcia zarządzania podmiotem gospodarczym",
+        "jest przykładem modelu rachunku kosztów, który może pełnić wyłącznie funkcję sprawozdawczą",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Uchwały Rady Ministrów oraz zarządzenia Prezesa Rady Ministrów i ministrów mają charakter:",
-      "correct_answer": " wewnętrzny i obowiązują tylko jednostki organizacyjnie podległe organowi wydającemu te akty",
+      "question": "Prezentowane w rachunku zysków i strat ( Załącznik nr 1 UoR) „pozostałe koszty operacyjne” , to koszty, do których zalicza się m.in",
+      "correct_answer": "koszty szkód powstałych w wyniku zdarzeń losowych, niepowtarzalnych",
       "incorrect_answers": [
-        "  wewnętrzny, lecz mają charakter powszechnie obowiązujący",
-        " zewnętrzny i powszechnie obowiązujący"
+        "koszty wynagrodzeń handlowców",
+        "koszty planowej amortyzacji własnych środków trwałych",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Zarządzenia są wydawane:",
-      "correct_answer": " tylko na podstawie ustawy",
+      "question": "W przedsiębiorstwie produkcyjnym, w którym prowadzona jest ewidencja kosztów na kontach układu rodzajowego (zespół 4) i kontach układu funkcjonalno-kalkulacyjnego (zespół 5) ustalenie zmiany stanu produktów do wariantu porównawczego rachunku zysków i strat następuje na koncie „Rozliczenie kosztów” i wymaga",
+      "correct_answer": "przeksięgowania na stronę (Dt) konta „Rozliczenie kosztów 490” stanów końcowych z kont: „Koszt wytworzenia sprzedanych produktów”, „Koszty sprzedaży”, „Koszty ogólnego zarządu”",
       "incorrect_answers": [
-        " na podstawie ustaw, rozporządzeń oraz aktów prawa miejscowego w zakresie określonym w tych aktach",
-        " tylko na podstawie ustaw i prawidłowo zawartych umów międzynarodowych"
+        "przeksięgowania na stronę Winien (Dt) konta „Rozliczenie kosztów 490” wszystkich kosztów rodzajowych oraz salda końcowego konta „Koszt wytworzenia sprzedanych produktów”",
+        "przeksięgowania na stronę (Dt) konta „Rozliczenie kosztów 490” jedynie salda konta „Koszt wytworzenia sprzedanych produktów”",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Zarządzenia:",
-      "correct_answer": " nie mogą stanowić podstawy decyzji wobec obywateli, osób prawnych oraz innych podmiotów",
+      "question": "Przedsiębiorstwo handlowe prowadzące ewidencję kosztów w układzie rodzajowym (zespół 4) i funkcjonalno-kalkulacyjnym (zespół 5) zaewidencjonuje otrzymaną fakturę za przegląd techniczny własnego komputera będącego na wyposażeniu działu finansowego na następujących kontach kosztów zespołu 4 i zespołu 5",
+      "correct_answer": "„usługi obce” -> koszty ogólnego zarządu",
       "incorrect_answers": [
-        " nie mogą stanowić podstawy prawnej wobec  obywateli, ale mogą stanowić taką podstawę wobec osób prawnych",
-        " mogą stanowić podstawę prawną decyzji wobec obywateli, osób prawnych oraz innych podmiotów"
+        "„amortyzacja” -> pozostałe koszty operacyjne",
+        "„wynagrodzenia” -> koszty sprzedaży",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Uchwały i zarządzenia podlegają kontroli co do ich zgodności z :",
-      "correct_answer": " powszechnie obowiązującym prawem",
+      "question": "Pozycja rachunku zysków i strat o nazwie „Przychody netto ze sprzedaży i zrównane z nimi”, zgodnie z załącznikiem nr 1 Ustawy o Rachunkowości, może maksymalnie zawierać następujące pozycje cząstkowe",
+      "correct_answer": "przychody netto ze sprzedaży materiałów, towarów, produktów, zmianę stanu produktów oraz koszt wytworzenia produktów na własne potrzeby jednostki",
       "incorrect_answers": [
-        " ustawami",
-        " ustawami oraz aktami wykonawczymi"
+        "przychody netto ze sprzedaży materiałów, towarów, produktów i traktowane na równi z nimi przychody ze sprzedaży innych składników aktywów niefinansowych np. środków trwałych",
+        "przychody netto ze sprzedaży materiałów, towarów, produktów oraz zmianę stanu produktów",
+        "0"
       ]
     },
     {
-      "category": "Prawo Cywilne",
+      "category": "Prawo gospodarcze",
       "type": "multiple",
       "difficulty": "medium",
-      "question": ". Organy samorządu terytorialnego oraz terenowe organy administracji rządowej ustanawiają akty prawa miejscowego obowiązujące na obszarze działania tych organów na podstawie  i w granicach upoważnień zawartych w :",
-      "correct_answer": " ustawie",
+      "question": "Kalkulacja fazowa półfabrykatowa",
+      "correct_answer": "implikuje konieczność kalkulowania kosztu półfabrykatu po poszczególnych fazach produkcyjnych",
       "incorrect_answers": [
-        " ustawach oraz aktach wykonawczych",
-        " powszechnie obowiązującym prawie"
+        "może, ale nie musi, być zastosowana w sytuacji, kiedy półfabrykaty podlegają odsprzedaży na zewnątrz",
+        "nie jest możliwa do zastosowania przy produkcji wieloasortymentowej",
+        "0"
+      ]
+    },
+    {
+      "category": "Prawo gospodarcze",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Jeżeli w okresie sprawozdawczym w jednostce gospodarczej wytworzono 50 szt. wyrobów gotowych i rozpoczęto 20 szt. produktów w 10%, których nie dokończono do końca okresu, to ekwiwalentna wielkość produkcji będzie w tym przypadku",
+      "correct_answer": "obejmowała sumę wyrobów gotowych oraz produktów niezakończonych przeliczonych na umowne gotowe produkty (52 jednostki ekwiwalentne)",
+      "incorrect_answers": [
+        "równa wyłącznie liczbie jednostek wyrobów gotowych (50 jednostek ekwiwalentnych.)",
+        "oznaczała wyłącznie liczbę produktów niezakończonych przeliczonych na umowne gotowe produkty (2 jednostki ekwiwalentne)",
+        "0"
+      ]
+    },
+    {
+      "category": "Prawo gospodarcze",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Produkcja masowa wyrobów standardowych, które różnią się jedynie ciężarem, a pozostałe cechy mają takie same, to wskazanie do zastosowania przy ustalaniu kosztów jednostkowych",
+      "correct_answer": "metody kalkulacji współczynnikowej",
+      "incorrect_answers": [
+        "metody kalkulacji podziałowej prostej",
+        "metody kalkulacji doliczeniowej",
+        "0"
+      ]
+    },
+    {
+      "category": "Prawo gospodarcze",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Zgodnie z załącznikiem nr 1 do Ustawy o Rachunkowości, jednostka sporządzająca sprawozdanie finansowe",
+      "correct_answer": "nie ma obowiązku prezentacji w informacji dodatkowej zasad rozliczania świadczeń wydziałów produkcji pomocniczej, ale jeśli chce może je opisać",
+      "incorrect_answers": [
+        "ma obowiązek podania w informacji dodatkowej do sprawozdania finansowego metod, jakie stosuje przy rozliczaniu świadczeń wydziałów produkcji pomocniczej",
+        "ma obowiązek podania informacji o metodach rozliczania produkcji tylko wtedy, gdy koszty produkcji pomocniczej są istotne",
+        "0"
+      ]
+    },
+    {
+      "category": "Prawo gospodarcze",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Przepisy Ustawy o Rachunkowości wskazują, że obliczając koszt wytworzenia produktu jednostka może do kosztów bezpośrednich doliczyć koszty pośrednie związane z wytworzeniem tego produktu, niezależnie od poziomu wykorzystania zdolności produkcyjnych. Ustalony w ten sposób koszt wytworzenia nie może być wyższy od ceny sprzedaży netto produktu. Możliwość taką mają",
+      "correct_answer": "tylko te jednostki gospodarcze, które spełniają kryteria wyspecyfikowane w Ustawie o Rachunkowości",
+      "incorrect_answers": [
+        "wszystkie jednostki gospodarcze",
+        "tylko te jednostki gospodarcze, w których produkcja ma charakter sezonowy, nierównomierny w ciągu okresu sprawozdawczego",
+        "0"
+      ]
+    },
+    {
+      "category": "Prawo gospodarcze",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Przy kalkulacji odchyleń od stałych kosztów pośrednich produkcji może pojawić się odchylenie rozmiarów produkcji. Jego elementy składowe to",
+      "correct_answer": "odchylenie z tytułu wydajności kosztów stałych i odchylenie wykorzystania zdolności produkcyjnych",
+      "incorrect_answers": [
+        "odchylenie z tytułu wydajności kosztów stałych i odchylenie budżetowe kosztów stałych",
+        "odchylenie cenowe kosztów stałych i odchylenie z tytułu wydajności kosztów stałych, odchylenie łączne kosztów stałych",
+        "0"
+      ]
+    },
+    {
+      "category": "Prawo gospodarcze",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Do typowych przyczyn odchyleń budżetowych stałych kosztów pośrednich można zaliczyć",
+      "correct_answer": "zmiany wynagrodzeń pracowników zatrudnionych w dziale produkcji ujmowanych jako stałe koszty pośrednie",
+      "incorrect_answers": [
+        "niepełne wykorzystanie normalnych zdolności produkcyjnych",
+        "zmiana charakteru produkcji z jednostkowej na seryjną niepowtarzalną, w sytuacji gdy produkt (seria) ma nietypowy charakter",
+        "0"
+      ]
+    },
+    {
+      "category": "Prawo gospodarcze",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Modelami rachunku kosztów użytecznymi przy podejmowaniu decyzji długoterminowych są",
+      "correct_answer": "rachunek kosztów działań, rachunek kosztów cyklu życia, rachunek kosztów docelowych",
+      "incorrect_answers": [
+        "rachunek kosztów działań, rachunek kosztów docelowych, rachunek kosztów pełnych rzeczywistych",
+        "rachunek kosztów zmiennych standardowych, rachunek kosztów cyklu życia, rachunek kosztów działań",
+        "0"
+      ]
+    },
+    {
+      "category": "Prawo gospodarcze",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Podczas analizy kosztów klienta",
+      "correct_answer": "mogą być uwzględniane koszty finansowe, o ile są związane z obsługą danego klienta",
+      "incorrect_answers": [
+        "uwzględniane są wyłącznie koszty działań związanych z obsługą klienta stanowiące koszty sprzedaży",
+        "uwzględniane są wyłącznie koszty wytworzenia produktów zakupionych przed klienta",
+        "0"
+      ]
+    },
+    {
+      "category": "Prawo gospodarcze",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "W sytuacji, kiedy produkcja w danym miesiącu jest wyższa niż sprzedaż",
+      "correct_answer": "wynik ze sprzedaży będzie niższy przy zastosowaniu rachunku kosztów zmiennych niż rachunku kosztów pełnych rzeczywistych",
+      "incorrect_answers": [
+        "koszt wytworzenia sprzedanych produktów ustalony w rachunku kosztów zmiennych będzie zgodny z ustawą o rachunkowości",
+        "wartość zapasów będzie wyższa przy zastosowaniu rachunku kosztów zmiennych niż rachunku kosztów pełnych rzeczywistych",
+        "0"
+      ]
+    },
+    {
+      "category": "Prawo gospodarcze",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Przykładem nośnika kosztów zasobów dla zasobu „pomieszczenie” może być",
+      "correct_answer": "dowolny nośnik uwzględniający charakter wykorzystania pomieszczenia i sposób jego zaangażowania w działania",
+      "incorrect_answers": [
+        "wyłącznie nośnik oparty na powierzchni lub kubaturze pomieszczenia",
+        "wyłącznie nośnik oparty na powierzchni lub kubaturze albo nośnik oparty na czasie",
+        "0"
+      ]
+    },
+    {
+      "category": "Prawo gospodarcze",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Najczęściej wymieniane są następujące etapy rachunku kosztów docelowych",
+      "correct_answer": "ustalenie dopuszczalnego kosztu produktu, tj. kosztu wyznaczonego przez rynek, ustalenie docelowego kosztu produktu, ustalenie docelowych kosztów komponentów produktu",
+      "incorrect_answers": [
+        "ustalenie ceny i kosztu wytworzenia produktu",
+        "żadna z powyższych",
+        "0"
+      ]
+    },
+    {
+      "category": "Prawo gospodarcze",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "„Koszt” jest pojęciem",
+      "correct_answer": "węższym niż pojęcie wydatku",
+      "incorrect_answers": [
+        "szerszym niż pojęcie wydatku",
+        "równoważnym z pojęciem wydatku",
+        "0"
+      ]
+    },
+    {
+      "category": "Prawo gospodarcze",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Proszę uzupełnić zdanie: „Koszt wynagrodzeń pracowników bezpośrednio-produkcyjnych zostanie zakwalifikowany w rachunku kosztów pełnych do [1], natomiast w rachunku kosztów zmiennych do [2]",
+      "correct_answer": "[1] bezpośrednie koszty produkcji, [2] koszty zmienne",
+      "incorrect_answers": [
+        "[1] koszty ogólnego zarządu, [2] koszty stałe",
+        "[1] pośrednie koszty produkcji, [2] koszty stałe",
+        "0"
       ]
     }
   ]
