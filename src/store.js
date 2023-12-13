@@ -28,7 +28,7 @@ export const store = reactive({
   getData() {
     this.loading = true;
     fetch(
-      `http://77.55.210.152:8080/questions.json?`
+      `https://bizneto.eu/api.php?category=${this.options.category}&amount=40`
     )
       .then((res) => res.json())
       .then((res) => {
